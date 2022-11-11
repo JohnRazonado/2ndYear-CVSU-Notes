@@ -2,7 +2,7 @@
 This notes are all focused on skimming and reitirating different subjects but some of it is super concise enough even at the powerpoint slide.
 
 ## Needed
-You need to downdload Obsidian md to use this one.
+Download Obsidian md to use this one.
 Here's the link
 **https://obsidian.md/**
 
