@@ -126,7 +126,7 @@ Most common types of information systems used are those designed for:
 #### Systems implementation
 - Creating or acquiring the system components defined in the design step, assembling them, and putting the new system into operation.
 #### Systems maintenance and review
-- Checking and modifying the system so that it continues to meet changing business needs.
+- Checking and modifying the system to continues to meet changing business needs.
 
 ## [[Organization]]
 - Collection of people and other resources established to accomplish a set of goals

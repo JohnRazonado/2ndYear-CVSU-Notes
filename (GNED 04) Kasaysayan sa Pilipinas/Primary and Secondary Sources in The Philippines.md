@@ -8,4 +8,7 @@ The collection includes translations of portions of 16th century chronicles such
 
 Filipino historians, such as the father-daughter tandem of Gregorio Zaide and Sonio Zaide, have also compiled and translated colonial documents. They published the 10- volume Documentary Sources of Philippine History (1994).
 
-![[Pasted image 20221002135335.png]]
+## Philippine Historiography
+- History through communal songs
+- Chroniclers' written accounts of observations 
+- Pantayong Pananaw (Zeus Salazar)

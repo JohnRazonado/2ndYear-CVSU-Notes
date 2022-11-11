@@ -17,3 +17,15 @@
 - “Practice of historical writing”
 - Method of doing historical research wherein if focuses on gathering documents from different [[Sources of History|sources]] to form a pool of evidence needed in making a descriptive or analytical narrative.
 - But modern writings doesn't  include examination of documents, but also use research methods from related areas such as archeology and geography.
+
+## Positivism
+- The school of thought that requires empirical and observable evidence before one can claim that a particular knowledge is true.
+
+## Postcolonialism
+- Formerly colonized nations grappled with the idea of creating their identities and understanding their societies against the shadow of their colonial past.
+
+## Annale School of History
+- School of history born in France who studies the history of peasantry, the history of medicine, or even the history of the environment.
+- History with geography, anthropology, archaeology, and Linguistics
+
+

@@ -1,11 +1,20 @@
 ## Sources of History
 - Refers to handwritten, printed, drawn, designed, and other composed materials.
 - But most of our historical sources are documents as of now.
-### Archaeological records
+
+### Unwritten Sources
+#### Archaeological records
 Refer to preserved remains of human beings, their activities, and the environment where they lived. In the Philippines, the most significant excavated human remains include the Callao Man’s toe bone (dated 67 000 BCE) and the Tabon Man’s skullcap (22 000 BCE). Aside from human remains, other archaeological records are generally categorized as fossils and artifacts
 
-**Fossils**- Remains of animals, plants, and other organisms from the past,
-**Artifacts** - Remnants of material culture developed by human beings. The include clothing, farm implements, jewelry, pottery, and stone tools.
+#### Fossils
+- Remains of animals, plants, and other organisms from the past,
+#### Artifacts
+- Remnants of material culture developed by human beings. The include clothing, farm implements, jewelry, pottery, and stone tools.
+#### Oral Evidence
+- Pertains to folk tales, myths, legends, folk songs, and popular rituals
+#### Material Evidence
+- Include photographs, art works, videos, and sound recordings.
+
 
 ### Primary Source 
 are those sources produced at the same time as the event, period or subject being studied.

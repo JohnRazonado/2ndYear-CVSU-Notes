@@ -11,7 +11,11 @@
 
 ## Data
 
-Information in raw or unorganized forms ( such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe.
+- Information in raw or unorganized forms
+	- refer to, or represent, conditions, ideas, or objects. 
+- Limitless and present everywhere in the universe.
+
+%%Information in raw or unorganized forms ( such as alphabets, numbers, or symbols) that refer to, or represent, conditions, ideas, or objects. Data is limitless and present everywhere in the universe.%%
 
 Most data is being converted into a digital format:
 - Driven by user demand
@@ -81,9 +85,12 @@ flowchart TD;
 	Discipline --> Sub["Subject to Management"]
 	Func --> D["Planning, Organizing,\n Directing, Controlling, and more"]
 ```
-- An individual or group that accept responsibilities to run an organization. They Plan, Organize, Direct and Control all the essential activities of the organization. Management does not do the work themselves. They motivate others to do the work and co-ordinate (i.e. bring together) all the work for achieving the objectives of the organization.
+- An individual or group that accept responsibilities to run an organization. 
+- Plan, Organize, Direct and Control all the essential activities of the organization.
+- Management does not do the work themselves. 
+	- They motivate others to do the work and co-ordinate (i.e. bring together) all the work for achieving the objectives of the organization.
 
-##### Management brings the 6 M's
+#### Management brings the 6 M's
 - Men and Women
 - Money
 - Machine

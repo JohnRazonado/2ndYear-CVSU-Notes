@@ -13,7 +13,7 @@
 	- Identify three basic approaches to developing application software and discuss the pros and cons of each.
 - Orgs should choose programming language that has the functionality of it appropriate to the task at hand, considering skills and experience of the programming staff.
 	- Outline the overall evolution and importance of programming languages and clearly differentiate among the generations of programming languages.
-- The software industry continues to undergo constant change; users need to be aware of recent trends and issues to be effective in their business and personal life.
+- The software industry undergo constant change; users need to be aware of recent trends and issues
 	- Identify several key software issues and trends that have an impact on organizations and individuals.
 
 ## Why Learn Hardware and Software?
