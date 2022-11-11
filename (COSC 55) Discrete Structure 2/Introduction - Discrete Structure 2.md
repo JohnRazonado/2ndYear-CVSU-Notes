@@ -1,0 +1,31 @@
+
+This is the continuation of Discrete Structure 1. Providing the combinatorics and probability theory required in design and analysis of algorithms, in system analysis, and in other areas of computer science.
+
+Discrete structure is a **set** of discrete elements which certain operations are defined.
+
+Most mathematics of computer science course or alike of it is built mostly by Discrete Math.
+
+## Key Terms
+
+**Discrete** - implies non-continuous and therefore finite and countable set but not uncountable sets such as the real numbers.
+
+**Logic** - the tool for reasoning about truth and falsity of a statement.
+
+**Set** - In mathematics, it is a well-defined collection of distinct objects. The arrangement of the elements doesn't matter at all.
+
+**SQL** - or Standard Query Language, the standard language for storing, manipulating, and retrieving data in databases.
+
+**Relation** - a set of two ordered pairs containing one object from each set.
+
+**Cardinality Ratio** - or mapping cardinalities, a concept that describe the binary relationship set and its types. 
+> This part is someone unknown and questionable to me to say atleast
+
+**Function** - an expression, rule or law that defines the relationship between one variable (independent) to another (dependent).
+
+**Recursion** - a function that calls itself, which gets into a loop of itself.
+
+**Combinatorics** - Branch of mathematics that studies the enumeration, combination and permutation of sets of elements.
+
+
+
+
