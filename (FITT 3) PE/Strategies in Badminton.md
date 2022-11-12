@@ -1,10 +1,7 @@
-# Strategies in Badminton
-
-
-**I. Introduction:** This module is designed to guide the students in developing their skills and playing strategies. It can be useful for them in playing the sport. This module will also introduce the students on the proper procedures before playing the game.
-
-1.    Know your opponent **–** “**TALL”** hard to get ball in body shot and drop
-	**“SMALLER”** hard to get a ball in high and running
+> Need more polishing
+1.    Know your opponent 
+	- “**TALL”** hard to get ball in body shot and drop
+	- **“SMALLER”** hard to get a ball in high and running
 2. Serve well
 3. Avoid lobbing
 	- Making your receive too easy to be catch by the opponent (which is not a good idea)
@@ -12,16 +9,12 @@
 5. Attack on the middle
 
 ## FOOTWORKS IN BADMINTON
-
 **1.** **V FRONT (UPPER LEFT AND RIGHT)**
 - Moving to the upper left or right of the court. It usual does when the shot was drop.
-
 **2.** **SIDE TO SIDE**
 - Moving to the side of the court. It use Step close launch. 
-
 **3.** **V BACK (BACK LEFT AND RIGHT)**
 - Moving to the lower back left and right of the court. It usual does when the shot was lob in corner of the court. It use gallop back and hit.
-
 **4.** **FORWARD AND BACK**
 - Moving forward and backward in the center of the court.
 
@@ -53,25 +46,15 @@
 - In particular, drive serves are favored by strong junior players (around the age of 13), who enjoy getting cheap points. Drive serves are mainly used in doubles, because the receiver stands farther forwards than in singles.
 
 ## PROPER WARM –UP
-
 **1.**    Cycling foot backward and moving “wrist and ankle”
-
 **2.**    Stretching calves- to avoid ankle injuries (back, sideward ,forward)
-
 **3.**    Knees- bending
-
 **4.**    Hips- cycling “rotation”
-
 **5.**    Arm and shoulder – side by side, cross up, down cycle
-
 **6.**    Head rotation
-
 **7.**    Toe touches
 
 ## COOLING DOWN
-
 **1.**    Leg and hip stretching
-
 **2.**    Arm shoulder stretching
-
 **3.**    Calf stretching

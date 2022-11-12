@@ -1,6 +1,6 @@
-# Equipment and Facilities of Badminton
 
-**I.**              **Introduction:**       This module is design to gain knowledge about the game specifically the proper equipment and facility that are going to use in playing badminton. It is important to teach the students this matter to avoid having injuries in their future games in badminton. The student is expected to be more familiarized with the proper equipment as well as the playing court of badminton, this is one factor to encourage them to play the sport.
+
+%%**I.**  **Introduction:**  This module is design to gain knowledge about the game specifically the proper equipment and facility that are going to use in playing badminton. It is important to teach the students this matter to avoid having injuries in their future games in badminton. The student is expected to be more familiarized with the proper equipment as well as the playing court of badminton, this is one factor to encourage them to play the sport.%%
 
 **1. BADMINTON COURT**
 
@@ -9,12 +9,12 @@
 ![](file:///C:/Users/Works/AppData/Local/Packages/oice_16_974fa576_32c1d314_1ec2/AC/Temp/msohtmlclip1/01/clip_image002.jpg)
 
 2. **SHUTTLE COCK**
-- Shall be made of natural feathered or Synthetic materials
-- Feathered is from a goose and 16 overlapping with a cork base
-- The shuttle shall have 16 feathers fixed in the base.
-- The shuttle shall weigh from 4.74 to 5.50 grams
-
 ![Parts of a Shuttlecock](Pasted%20image%2020221009115727.png)
+- Can be **natural feathered** or **Synthetic materials**
+	-  The shuttle shall have 16 feathers fixed in the base from a goose
+		- Feathers are overlapping in the cork base
+- Weighs 4.74 to 5.50 grams
+
 ![Synthetic Shuttlecock](Pasted%20image%2020221009115751.png)![Feathered Shuttlecock](Pasted%20image%2020221009115805.png)
 **SYNTHETIC                                            FEATHERED**
 
@@ -41,7 +41,6 @@ A **racket** or **racquet** is sports equipment consisting of a handled fram
 ![rackets.jpg](Pasted%20image%2020221009120305.png)
 
 **HANDGRIPS IN BADMINTON**
-
 **1)** **Forehand Grip**
 - Like shaking a hand, point of the finger must be down at the same time we have a space, we cannot hold it tight or loose.  
 
