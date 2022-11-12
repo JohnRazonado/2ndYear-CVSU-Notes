@@ -40,13 +40,10 @@
 ![](Pasted%20image%2020221027202826.png)
 
 ### Processing and Memory Devices
-
-- **System Unit** - Houses the components responsible for processing (the CPU and memory)
-
+- **System Unit** - Houses the components responsible for processing (the CPU and memory.
 - **Other computer devices** - Are linked either directly or indirectly into the system unit housing.
 
 #### Processing Characteristics and Functions
-
 **Clock Speed**
 - Series of electronic pulses produced at a predetermined rate that affects machine cycle time.
 - Measured in: 
@@ -56,11 +53,9 @@
 	- Most CPUs are collections of digital circuits imprinted on silicon wafer, or chips, each no bigger than the tip of a pencil eraser.
 
 #### Memory Characteristics and Functions
-
 - **Memory**
 	- Provides the CPU with a working storage area for programs and data
 	- Rapidly provides data and instructions to the CPU
-
 - **Storage capacity**
 	- Eight bits together form a byte (B)
 ![](Pasted%20image%2020221027210146.png)
@@ -71,7 +66,6 @@
 
 ### Multiprocessing
 **Simultaneous** execution of *two or more instructions* at the same time
-
 - Multicore Microprocessor:
 	- Combines two or more independent processors into a single computer
 - Parallel computing:
@@ -83,7 +77,6 @@
 - Secondary storage:
 	- Compared with memory, offers the advantages of nonvolatility, greater capacity, and greater economy
 	- Considerably slower than memory
-
 ### Access Methods
 - **Sequential access**:
 	- Data must be retrieved in the order in which it is stored 
@@ -193,6 +186,7 @@ Used to display the output from the com
 - Software for personal computers typically comes on CDs or downloaded from the Web
 
 ## Systems Software
+#### Utility programs
 #### Operating Systems
 - Set of programs that controls computer hardware and acts as interface with application programs
 - Can control one computer or multiple computers, or 
@@ -232,4 +226,17 @@ Used to display the output from the com
 - Allows computer to execute program instructions effectively and to speed processing
 
 
-#### Utility programs
+## Review Questions
+1. When determining the appropriate hardware components of a new information system, what role must the end user of the system play?
+2. Identify two basic characteristics of RAM and ROM.
+3. What is RFID technology? How does it work?
+4. Identify the three components of the CPU and explain the role of each.
+5. What is RAID storage technology? What advantages does it offer?
+6. Identify and briefly describe the various classes of computers. 7. Give four examples of personal productivity software.
+7. What is software as a service? What advantages does it provide for meeting an organization’s software needs?
+8. What are the two basic types of software? Briefly describe the role of each.
+9. What is multiprocessing? What is multitasking?
+10. What is an application service provider? What issues arise in considering the use of one?
+11. Define the term utility software and give two examples.
+12. What does the acronym API stand for? What is the role of an API?
+13. Describe the term enterprise resource planning (ERP) system. What functions does such a system perform

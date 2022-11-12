@@ -234,3 +234,23 @@ Most common types of information systems used are those designed for:
 - Technology transfer issues
 - State, regional, and national laws
 - Trade agreements
+
+
+## Review Question
+1. What are the components of any information system?
+2. How would you distinguish data and information? Information and knowledge?
+3. Identify at least six characteristics of valuable information.
+4. What is a computer-based information system? What are its components?
+5. What are the most common types of computer-based information systems used in business organizations today? Give an example of each. 
+6. What is the difference between e-commerce and m-commerce?
+7. Describe three applications of virtual reality.
+8. What is a knowledge management system? Give an example.
+9. What is the technology acceptance model (TAM)? 
+10. What is user satisfaction?
+11. What are some general strategies employed by organizations to achieve competitive advantage?
+12. Define the term productivity. Why is it difficult to measure the impact that investments in information systems have on productivity?
+13. What is supply chain management?
+14. What is the total cost of ownership?
+15. What is the role of the systems analyst? What is the role of the programmer? 
+16. What is the operations component of a typical IS department?
+17. What is the role of the chief information officer?

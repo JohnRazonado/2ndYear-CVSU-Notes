@@ -1,3 +1,4 @@
+> This part needs to be more concise
 ## Sources of History
 - Refers to handwritten, printed, drawn, designed, and other composed materials.
 - But most of our historical sources are documents as of now.
@@ -22,7 +23,7 @@ These materials provide facts to people who actually witnessed the event.
 To which there are many [[Repository of Primary Sources (Repositoryo ng mga sangguniang Batis|| primary sources in the Philippines and abroad in different libraries]].
 
 #### Examples include:
-- Artifacts (e.g. coins, plant specimens, fossils, furniture, tools, clothing, all from the time under study)
+- [[Sources of History#Artifacts|Artifacts]] (e.g. coins, plant specimens, fossils, furniture, tools, clothing, all from the time under study)
 - Audio recordings (e.g. radio programs, oral histories)
 - Diaries
 - Internet communications on email, listservs
@@ -55,7 +56,7 @@ are those sources which were produced by an author who used primary sources to p
 - Magazine and newspaper articles (this distinction varies by discipline)
 - Monographs, other than fiction and autobiography
 - Textbooks (also considered tertiary)
-- Web site (also considered primary)
+- Website (also considered primary)
 
 ### Historical Methodology
 it comprises certain techniques and rules that historians follow in order to properly utilize sources and historical evidences in writing history.

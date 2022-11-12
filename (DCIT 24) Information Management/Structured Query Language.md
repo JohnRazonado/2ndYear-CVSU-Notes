@@ -15,7 +15,7 @@ or **SQL** is a programming language was first developed in the 1970's.
 
 ## Why SQL?
 It allows users to
-- Access data in relational database management systems.
+- Access data in relational database management systems (RDMS).
 - Describe the [[2nd Year/(DCIT 24) Information Management/Introduction#Data|data]].
 - [[Structured Query Language#DML - Data Manipulation Language|Define the data in database and manipulate]] it.
 - Embed within other languages using SQL modules, libraries & pre-compilers.
