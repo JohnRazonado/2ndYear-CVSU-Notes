@@ -1,3 +1,5 @@
+>Need to be concise
+
 This part will discuss the fundamentals of OOP, from making everything as an object to different behavior of it.
 
 - OOP as a whole is a paradigm that allows programmers/ developers to code in unison while still having a sense of stacking each other without falling apart.

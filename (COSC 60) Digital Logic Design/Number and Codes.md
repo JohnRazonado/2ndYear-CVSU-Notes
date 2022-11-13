@@ -15,6 +15,10 @@
 
 ## How Binary is used
 - Since it is the fundamentals of computer and computing itself
+### Bit
+### BCD
+### ASCII
+
 
 #### Program
 - List of instructions telling the computer what to do
@@ -29,3 +33,12 @@
 #### Software
 - The program itself
 - Computers would be a pile of "dumb" without it.
+
+## Transistors
+### Transistor Register
+
+### Magnetic cores
+
+## Microprocessors
+
+## Conversions

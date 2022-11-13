@@ -27,8 +27,11 @@
 
 ## SERVES IN BADMINTON
 **1.   LOW SERVE**
-- The low serve is played gently over the net to land at the front of your opponent’s service court, near the short service line. It’s important that this serve passes _low_ over the net (hence the name low serve).
-- The low serve is used in both singles and doubles. In doubles, the low serve is used more frequently than any other serve.
+- Played gently over the net to land at front of your opponent's service court.
+- Serve near the shortline
+
+%%- The low serve is played gently over the net to land at the front of your opponent’s service court, near the short service line. It’s important that this serve passes _low_ over the net (hence the name low serve).
+- The low serve is used in both singles and doubles. In doubles, the low serve is used more frequently than any other serve.%%
 
 **2. HIGH SERVE**
 - The high serve is played powerfully upwards, so that the shuttlecock travels very high and falls almost vertically downwards at the back of the receiver’s service court. High serves are used frequently in singles, but never in doubles (at a high standard of play).
@@ -42,7 +45,6 @@
 **4. DRIVE SERVE**
 - The drive serve is played flat and fast towards the back of the receiver’s service court, passing low over the net. The idea is to provoke an immediate reaction, hoping that the receiver will mishit the shuttlecock. Drive serves are a gamble: if your opponent is too slow, then you will win the point immediately; but if he reacts quickly enough, then you are likely to lose.
 - Drive serves are almost never used by professional players, because their opponents are quick enough to counter-attack the serve consistently. At low levels of play, drive serves are used extensively by competitive players, because many opponents are unable to handle them.
-
 - In particular, drive serves are favored by strong junior players (around the age of 13), who enjoy getting cheap points. Drive serves are mainly used in doubles, because the receiver stands farther forwards than in singles.
 
 ## PROPER WARM –UP

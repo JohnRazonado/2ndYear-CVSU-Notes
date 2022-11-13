@@ -5,7 +5,7 @@
 
 ### Unwritten Sources
 #### Archaeological records
-Refer to preserved remains of human beings, their activities, and the environment where they lived. In the Philippines, the most significant excavated human remains include the Callao Man’s toe bone (dated 67 000 BCE) and the Tabon Man’s skullcap (22 000 BCE). Aside from human remains, other archaeological records are generally categorized as fossils and artifacts
+Refer to preserved remains of human beings, their activities, and the environment where they lived. In the Philippines, the most significant excavated human remains include the Callao Man’s toe bone (dated 67 000 BCE) and the Tabon Man’s skullcap (22 000 BCE). Aside from human remains, other archaeological records are generally categorized as fossils and artifacts.
 
 #### Fossils
 - Remains of animals, plants, and other organisms from the past,
@@ -44,7 +44,7 @@ To which there are many [[Repository of Primary Sources (Repositoryo ng mga sang
 - Websites
 
 ### Secondary Source
-are those sources which were produced by an author who used primary sources to produce the material.
+- Sources which were produced by an author who used primary sources to produce the material.
 
 #### Examples include:
 - Bibliographies (also considered tertiary)
@@ -60,27 +60,19 @@ are those sources which were produced by an author who used primary sources to p
 
 ### Historical Methodology
 it comprises certain techniques and rules that historians follow in order to properly utilize sources and historical evidences in writing history.
+- Part of the [[2nd Year/(GNED 04) Kasaysayan sa Pilipinas/Introduction#Historiography|Historiography]]
 
-##  Historical Criticism
-Many documents have primary and secondary segments. For instance, examining a newspaper as a historical source entails a discerning mind to identify its primary and secondary components.
+##  [[Historical Criticism]]
+- A way to ascertain the authenticity and reliability of primary sources to be used in crafting a narrative
+- There are two levels of historical criticism
+	- **[[external criticism]]**
+	- **internal criticism.** 
 
-A news item <mark style="background: #FFB8EBA6;">written by a witness of an event</mark> is considered as a **primary source**, while a <mark style="background: #FFB8EBA6;">feature articles</mark> is usually considered as a **secondary material**. Similarly, a book published a long time ago does not necessarily render it as a primary source. It requires a meticulous reading of the document to know its origin.  
-
-To ascertain the authenticity and reliability of primary sources to be used in crafting a narrative, a historian needs to employ two levels of historical criticism and, namely, **external criticism** and **internal criticism.** 
-
-### External Criticism
-is the practice of verifying the authenticity of evidence by examining its physical characteristics, consistencies with the historical characteristics of times when it was produced, and the material used for evidence.
-
-It identifies the composed of the historical material, locating when and where the material was produced, and establishing the material's evidential value.
-
-- Saan ba galing ito, lugar ito galing, ginagamit ang carbon dating, tama ba yung taon kung saan to galing?
-- Pisikal itong nakikita o napapansin na ebidensya
+### [[External Criticism]]
+- Practice of verifying the authenticity of evidence by examining its physical characteristics, consistencies with the historical characteristics.
+- One can use carbon dating to know the time of material it was made.
 
 
-### Internal Criticism
-is the examination of the truthfulness of evidence. It looks at the content of the sources and examines the circumstance of its production.
-
-Deals which the credibility and reliability of the content of a given historical source. It focus on understanding the substance message of the material, examining how the author frame the intent and meaning of a composed material. 
-
-- Sinususugan ito ng ilang babasahin
-- Na kailangan naaangkop ito sa mga pangyayari sa mga panahon na iyon.
+### [[Internal Criticism]]
+- is the examination of the truthfulness of evidence. It looks at the content of the sources and examines the circumstance of its production.
+- Looking inside the meaning and context of the material piece.

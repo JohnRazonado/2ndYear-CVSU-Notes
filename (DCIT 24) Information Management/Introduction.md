@@ -1,13 +1,12 @@
 
-## Key Points
+%%## Key Points
 - What is Data and Information?
 - Transformation of Data into Information using a Data Process
 - The Origins of Information Management
 - What is Management?
 - What is Information Management?
 - Why is Information Management Important?
-- Five keys to Information Management
-
+- Five keys to Information Management%%
 
 ## Data
 

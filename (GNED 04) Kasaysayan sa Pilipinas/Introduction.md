@@ -7,7 +7,7 @@
 - Deals with the study of past events
 - Individual who write it: “Historians”
 
-## Historians
+## [[Historians]]
 - seek to understand the present
 	- By examining the past (or what went before)
 - Undertaking laborious historical research to have a meaningful and organized reconstruction of the past.
@@ -15,7 +15,8 @@
 
 ## Historiography
 - “Practice of historical writing”
-- Method of doing historical research wherein if focuses on gathering documents from different [[Sources of History|sources]] to form a pool of evidence needed in making a descriptive or analytical narrative.
+- Method of doing historical research wherein focuses on gathering documents from different [[Sources of History|sources]] to form a pool of evidence
+%%Method of doing historical research wherein focuses on gathering documents from different [[Sources of History|sources]] to form a pool of evidence needed in making a descriptive or analytical narrative.%%
 - But modern writings doesn't  include examination of documents, but also use research methods from related areas such as archeology and geography.
 
 ## Positivism
