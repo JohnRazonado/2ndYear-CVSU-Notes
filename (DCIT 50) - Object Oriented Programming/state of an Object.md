@@ -1,8 +1,8 @@
 Objects has a state it could be:
 - Attribute
-- Identity
+- Data value
 
-This tells what an object is. The Identity part of it could be a variable or the machine memory address itself
+This tells what an object is. 
 
 ### Examples
 **A pen could have:**
