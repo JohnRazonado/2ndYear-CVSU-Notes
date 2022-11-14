@@ -117,7 +117,7 @@ Devices used to input general types of data:
 
 ### Output Devices
 #### Display monitors
-Used to display the output from the com
+Used to display the output from the computer
 - Plasma display:
 	- Uses thousands of smart cells (pixels) consisting of electrodes and neon and xenon gases that are electrically turned into plasma to emit light
 - LCD Display:

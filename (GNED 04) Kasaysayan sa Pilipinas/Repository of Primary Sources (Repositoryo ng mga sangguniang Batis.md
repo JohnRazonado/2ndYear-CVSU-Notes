@@ -37,11 +37,41 @@ Ang mga sangguniang batis na ito ay tinipon at kinalap ng mga mananaliksik, hist
 	- Naglalaman ito ng mga aklat, peryodiko, at artikulo na may kinalaman sa kasaysayan ng Lalawigan ng Bulacan.
 
 ## Pambansang Dambana
-- Ang mga dambana ay lugar kung saan nakahimlay ang gma labi ng mga bayani ng bayan
+- Ang mga dambana ay lugar kung saan nakahimlay ang mga labi ng mga bayani ng bayan
 - Kadalasan ay may museo rin ito
 	- Kagaya ng Dambana ni Gat Marcelo H. del Pilar
 		- Matatagpuan sa Brgy. San Nicolas, Bulakan, Bulacan.
 		- Ito ang pook-kapanganakan ni del Pilar na ipinasunog ng Espansyol
 		- Muli itong pinatayo at pinanirahan na ng labi ni del Pilar na galing pang Barcelona, Espanya.
+
+## Casa Riyal
+-   Naging Limbagan ng mga digmaan rebulosyunaryo
+-   Naging pamahalaan ng bayan ng Malolos
+-   Isang malaking limbagan sa panahon ng mga digmaang Amerikano
+-   Bulwagan - Kaginhawaan
+-   Ikalimang bulwagan - Paghihirap sa mga Amerikano
+
+## Museo ng May Mga Pangalan
+### Museo ni Mariano Ponce
+-  Bayan ng Baliwag
+    -   Dahil sa ambag nito ang kasaysayan, sining, at kultura
+-   Pinakabantog ito na si Propagandista si Mariano Ponce E Colliantes
+-   Pambansang Komisyon ng Pilipinas
+-   200m sqr
+
+### Museo at Aklatan ni Diosdado Macapagal
+-   Para lang sa Presidente ni Diosdado Macapagal
+-   Kay macapagal ito
+-   10th centenial anniversary of the president
+
+### Museo ni Rizal
+- Sa Barangay Talisay, Dapitan City, Zamboanga del Norte
+- Puro showcase lang ang naganap sa loob nito
+-   May kahina-hinalang paglalagay ng Lupang Hinirang sa Gitna
+
+### Museo ni Quezon
+-   Fredirico Illustre - ang naghawak ng disenyo para sa museo na ito
+-   Three angels - 3 main islands (Luzon, Visayas, Mindanao)
+
 
 
