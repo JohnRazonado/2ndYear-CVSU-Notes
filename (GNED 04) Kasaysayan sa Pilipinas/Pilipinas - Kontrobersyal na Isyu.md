@@ -111,6 +111,14 @@ Daang Malalim, Pugad ng Lawin, and Pacpac Lawin.
 - last Bonifacio residence mentioned in the sources is actually on one long street today that used to be separate streets in 19th century, Trozo -- Calle Magdalena according to Oryang but 73 San Jose according to Valenzuela.55 Carmen Guerrero Nakpil, Chairman of the Manila Historical Commission plans to place markers on these sites to give people in the area a sense of history and give modern Filipinos a link to the past.
 - Could we say that Bonifacio was yesterday's Yuppie? What if Bonifacio wanted to evade the authorities who kept watch over his activities? From 1893 to August 1896 Bonifacio lived in about a dozen different places. Whatever his reasons, Bonifacio was an NPA. He had No Permanent Address
 
+1. Bernabe Bonifacio, age 36, tailor, married (probable wife Rafaela Uy Tangco, age 29, cigarrera).
+
+2. Dionicio Bonifacio, age 26 or 36, married carrocero, probable wife Francisca Hilario, age 35 cigarrera. They had a son Telesforo age six. In another vecindario entry the same Dionisio Bonifacio's age is given as 35 his occupation tendero. He is still married to Francisca Hilario age 37 cigarrera but now with two children Telesforo four and Marcela, three.
+
+3. Geronima Bonifacio, 24, cigarrera.
+
+Where on earth was Andres Bonifacio? Did he really come from Tondo? What if he was registered in another suburb of Manila? Maybe he was a temporary resident of Tondo? Temporary residents are not registered in the vecindarios anyway. Maybe the person assigned to collect from Bonifacio was afraid of our hero? Maybe the collector pocketed Bonifacio's tax? Maybe the collector was delinquent, negligent or all of the above? If Bonifacio was indeed a resident of Tondo, why was he not enrolled for the head tax among the naturales in Tondo? The bottom line is -- if Bonifacio did not pay his taxes, he did not have a cedula. If he didn't have a cedula, what did he tear up during the famous Cry of Balintawak or Pugad Lawin?
+
 #### Pagkakaintindi
 Nagkaroon sila Bonifacio at Oryang ng anak na nagngangalang Bonifacio Jr.. Sa kasamaang palad ay namatay ito sa tigdas. Maraming nilipatan na mga bahay ang pamilyang Bonifacio dahil simula 1893 hanggang Agosto 1896 ay nakatira siya sa isang dosenang lugar. Kung ano man ang rason ay siya ay walang permanenteng address o NPA.
 
@@ -140,6 +148,8 @@ Many Filipinos in the same generation as my parents can rattle off the honorific
 We have no problem with "Great Malayan" except during the 1995 International Rizal Conference in Kuala Lumpur when the Malaysians asked themselves, who is this presumptuous Christian Filipino who claims to be the Great Malayan? Filipinos refer to the Malayan race while Malaysians take the term to mean citizens of Malaysia. Mabini was the "Brains of the Revolution" a title once questioned by Gregoria de Jesus who insisted that the title rightfully belonged to Jacinto. I have no problem with "paralytic" but when combined with "sublime" I don't quite know what it means.
 
 Do Filipinos stop and try to unravel what these honorifics really mean? Filipinos can attach these titles to heroes as easily as they pin tails on donkeys at children's parties. However, when pressed to define or explain these honorifics they are tongue-tied.
+
+I traced the confusion over Bonifacio, the plebeian to its origin and ended up with the most widely used source, a biography in Spanish by Epifanio de los Santos published in 1917. De los Santos says Bonifacio was a vendedor of canes and paper fans. Vendedor in Spanish is very close to the English "vendor." No problem with that but then De los Santos also lists Bonifacio's other occupations: mandatorio at the English trading firm Fleming and Company, where he rose to become  corredor of tar and other products. Later, Bonifacio moved to the German firm Fressell and Company where he worked as a bodeguero.
 
 #### Pagkakaintindi
 Maraming mga honoraryong titulo tayong nilalagay sa ating mga bayani:

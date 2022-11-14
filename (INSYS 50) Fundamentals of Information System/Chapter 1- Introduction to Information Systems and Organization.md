@@ -10,8 +10,8 @@
 - Cooperation between business managers and IS personnel is the key to unlocking the potential of any new or modified system
 
 ## Information Concepts
-- **Data** - Raw Facts
-- **Information** - Collection of facts organized to have values beyond the facts themselves
+- **[[2nd Year/(DCIT 24) Information Management/Introduction#Data|Data]]** - Raw Facts
+- **[[2nd Year/(DCIT 24) Information Management/Introduction#Information|Information]]** - Collection of facts organized to have values beyond the facts themselves
 - **Process** – Set of *logically related tasks* performed to achieve a define outcome
 - **Knowledge** - Awareness and understanding of a set of information
 
@@ -127,6 +127,8 @@ Most common types of information systems used are those designed for:
 - Creating or acquiring the system components defined in the design step, assembling them, and putting the new system into operation.
 #### Systems maintenance and review
 - Checking and modifying the system to continues to meet changing business needs.
+
+> This is really the cutoff of the lesson as far as lecture of our professor goes
 
 ## [[Organization]]
 - Collection of people and other resources established to accomplish a set of goals
