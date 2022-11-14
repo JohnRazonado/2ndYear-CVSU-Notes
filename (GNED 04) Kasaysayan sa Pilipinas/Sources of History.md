@@ -5,7 +5,8 @@
 
 ### Unwritten Sources
 #### Archaeological records
-Refer to preserved remains of human beings, their activities, and the environment where they lived. In the Philippines, the most significant excavated human remains include the Callao Man’s toe bone (dated 67 000 BCE) and the Tabon Man’s skullcap (22 000 BCE). Aside from human remains, other archaeological records are generally categorized as fossils and artifacts.
+Refer to preserved remains of human beings, their activities, and the environment where they lived. 
+- In the Philippines, the most significant excavated human remains include the Callao Man’s toe bone (dated 67 000 BCE) and the Tabon Man’s skullcap (22 000 BCE). Aside from human remains, other archaeological records are generally categorized as fossils and artifacts.
 
 #### Fossils
 - Remains of animals, plants, and other organisms from the past,
@@ -17,9 +18,9 @@ Refer to preserved remains of human beings, their activities, and the environmen
 - Include photographs, art works, videos, and sound recordings.
 
 
-### Primary Source 
-are those sources produced at the same time as the event, period or subject being studied.
-These materials provide facts to people who actually witnessed the event.
+### [[Primary Source ]]
+- are those sources produced at the same time as the event, period or subject being studied.
+- These materials provide facts to people who actually witnessed the event.
 To which there are many [[Repository of Primary Sources (Repositoryo ng mga sangguniang Batis|| primary sources in the Philippines and abroad in different libraries]].
 
 #### Examples include:
@@ -42,6 +43,16 @@ To which there are many [[Repository of Primary Sources (Repositoryo ng mga sang
 - Video recordings (e.g. television programs)
 - Works of art, architecture, literature, and music (e.g., paintings, sculptures, musical scores, buildings, novels, poems)
 - Websites
+
+![[Pasted image 20221113234024.png]]
+![[Pasted image 20221113234033.png]]
+![[Pasted image 20221113234044.png]]
+![[Pasted image 20221113234050.png]]
+![[Pasted image 20221113234130.png]]
+![[Pasted image 20221113234435.png]]
+![[Pasted image 20221113234439.png]]
+![[Pasted image 20221113234443.png]]
+
 
 ### Secondary Source
 - Sources which were produced by an author who used primary sources to produce the material.
@@ -68,11 +79,11 @@ it comprises certain techniques and rules that historians follow in order to pro
 	- **[[external criticism]]**
 	- **internal criticism.** 
 
-### [[External Criticism]]
+### [[External Criticism]]/ Kritikang Panlabas
 - Practice of verifying the authenticity of evidence by examining its physical characteristics, consistencies with the historical characteristics.
 - One can use carbon dating to know the time of material it was made.
 
 
-### [[Internal Criticism]]
+### [[Internal Criticism]]/ Kritikang Panloob
 - is the examination of the truthfulness of evidence. It looks at the content of the sources and examines the circumstance of its production.
 - Looking inside the meaning and context of the material piece.
