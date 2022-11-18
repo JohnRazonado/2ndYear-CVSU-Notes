@@ -28,7 +28,7 @@
 - To assemble an effective and efficient system:
 	- You should select and organize components while understanding trade-offs among overall system performance and cost, control, and complexity
 - Hardware objectives are:
-	- Subordinate to, but supportive of, the information system and the current and future needs of the organization.
+	- Subordinate to, but supportive of, the [[Chapter 1- Introduction to Information Systems and Organization#Information System|information system]] and the current and future needs of the organization.
 
 ## Hardware Components
 **Central processing unit (CPU)** - Arithmetic/logic unit, the control unit, and the register areas
@@ -67,7 +67,7 @@
 ### Multiprocessing
 **Simultaneous** execution of *two or more instructions* at the same time
 - Multicore Microprocessor:
-	- Combines two or more independent processors into a single computer
+	- *Combines two or more independent processors* into a single computer
 - Parallel computing:
 	- Simultaneous execution of the same task on multiple processors to obtain results faster
 - Grid computing : 

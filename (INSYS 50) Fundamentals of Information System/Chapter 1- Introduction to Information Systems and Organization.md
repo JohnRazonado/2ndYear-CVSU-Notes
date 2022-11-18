@@ -208,7 +208,7 @@ Most common types of information systems used are those designed for:
 	- **Information service units** - Miniature IS department attached and directly reporting to a functional area in a large organization.
 
 ### IS Titles and Functions
-- **Chief Information Officier (CIO)**
+- **Chief Information Officer (CIO)**
 	- Employs IS department’s equipment and personnel to help the organization attain its goals
 - **LAN admin**
 	- Set up and manage the network hardware, software, and security processes

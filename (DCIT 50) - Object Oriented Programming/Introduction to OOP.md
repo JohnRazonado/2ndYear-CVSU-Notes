@@ -55,6 +55,7 @@ The **[[State of an Object|state]]**, **[[Behavior of an Object|behavior]]**, an
 ### [[Inheritance]]
 - The child can inherit all parent attributes
 - Used to achieve runtime polymorphism
+- Need to use the **[[Inheritance#"extends" Keyword|extend]]** keyword to inherit the attributes
 
 > object acquires all the properties and behaviors of a parent object,
 

@@ -1,3 +1,5 @@
+- Collection of people and other resources established to accomplish a set of goals
+-  Has inputs, processing mechanisms, outputs, and feedback
 ![[Pasted image 20221110094813.png]]
 
 ### Value chain

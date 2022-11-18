@@ -1,3 +1,5 @@
+> Page 19/25
+
 ## Inverter
 ## AND
 ## OR
