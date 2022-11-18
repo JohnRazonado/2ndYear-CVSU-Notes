@@ -54,7 +54,6 @@
 
 ### Memory
 - One of the main parts of computers.
-- ``
 
 ## Transistors
 - Main reason why computer works
