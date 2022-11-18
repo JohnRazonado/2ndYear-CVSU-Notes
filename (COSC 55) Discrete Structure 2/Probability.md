@@ -1,9 +1,10 @@
 ## Probability Research
-### Objectives
+<!--%%### Objectives
 - Learn what probability research is 
 - Use of scientific data via probability research
 - Familiarize on the role of Probability in probability research
-- Relate Probability and Statistical Inference (how do they work together)
+- Relate Probability and Statistical Inference (how do they work together)%%
+-->
 
 ### Applications (in IT)
 - Probability is everywhere in computer science. 
@@ -11,7 +12,8 @@
 	- In algorithms, randomization is used to design faster and simpler algorithms than their *deterministic counterpart
 - Probability is commonly used by data scientists **to model situations where experiments, conducted during similar circumstances, yield different results** (as in the case of throwing dice or a coin). It also has many practical uses in the business world
 **Practical Application of Probability?**
-Probability plays a vital role in the day to day life. In the weather forecast, sports and gaming strategies, buying or selling insurance, online shopping, and online games, determining blood groups, and analyzing political strategies
+- Vital role in the day to day life. 
+- In the weather forecast, sports and gaming strategies, buying or selling insurance, online shopping, and online games, determining blood groups, and analyzing political strategies
 
 > ### Review
 > 
@@ -68,7 +70,6 @@ It is the likelihood or chance of an event occurring.
 
 ### Single Events
 **Example**
-
 There are 6 marbles in a bag, 3 are red, 2 are green and 1 is blue. What is the probability of picking a green? 
 
 The probability is the number of greens in the bag divided by the total number of marbles, i.e. 2/6 = 1/3
@@ -87,7 +88,7 @@ When working out what the probability of two things happening is, a probability/
 a) The black blobs indicate the ways of getting 8 (a 2 and a 6, a 3 and a 5, ...). There are 5 different ways. The probability space shows us that when throwing 2 dice, there are 36 different possibilities (36 squares). With 5 of these possibilities, you will get 8.
 
 
-### Salient Points
+<!--%%### Salient Points
 Probability is simply how likely something is to happen. Whenever we're unsure about the outcome of an event, we can talk about the probabilities of certain outcomes—how likely they are. The analysis of events governed by probability is called statistics.
 
 #### How do you calculate probability?
@@ -98,4 +99,5 @@ What is the probability of drawing a king or queen? First, the probability of d
 **1/13 * (4/51 )= 4/663**
 
 ## Summary
-![[Pasted image 20221117215801.png]]
+![[Pasted image 20221117215801.png]]%%
+-->

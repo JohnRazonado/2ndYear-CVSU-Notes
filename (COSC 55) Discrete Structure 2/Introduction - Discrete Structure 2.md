@@ -9,9 +9,11 @@ Most mathematics of computer science course or alike of it is built mostly by Di
 
 ## Key Terms
 
-**Discrete** - implies non-continuous and therefore finite and countable set but not uncountable sets such as the real numbers.
+**Discrete** – implies non-continuous and therefore finite and countable set but not uncountable sets such as the real numbers. Can only take certain values (such as 1,2,3,4,5)
 
-**[[Sets and Logic#Logic|Logic]]** - the tool for reasoning about truth and falsity of a statement.
+**Continuous  Data** - can take any value within a range (such as a person's height).
+
+**[[Sets and Logic#Logic|Logic]]** - The tool for reasoning about truth and falsity of a statement.
 
 **[[Sets and Logic#Set|Set]]** - In mathematics, it is a well-defined collection of distinct objects. The arrangement of the elements doesn't matter at all.
 
@@ -28,11 +30,13 @@ Most mathematics of computer science course or alike of it is built mostly by Di
 
 **[[Overview - Prob Comb Algo#Combinatorics|Combinatorics]]** - Branch of mathematics that studies the enumeration, combination and permutation of sets of elements.
 
-**[[Probability]]** - Likeliness of something is to happen.
+**[[Probability]]** - Likeliness of something is to happen. Whenever we're unsure about the outcome of an event.
 
 **[[Random Variable]]** - Numerical description of the outcome of statistical experiment. Set of possible values from a random experiment.
 
-**[[Automata Theory|Automata]]** - Deals with logic of computation to understand  how machines compute functions, and defined function as computable. 
+**[[Automata Theory|Automata]]** - Deals with logic of computation to understand  how machines compute functions, and defined function as computable. Deals with the logic of computation with respect to simple machines, referred to as automata.
+
+[[Computability Theory]] - Area of mathematics dealing with the concept of an effective procedure that can be carried out by following specific rules. 
 
 
 

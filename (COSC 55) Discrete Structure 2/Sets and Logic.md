@@ -1,23 +1,34 @@
 ## Logic
-- We all love computers. They can do so many amazing things. Within a couple of decades computers have completely revolutionized almost all the aspects of human life. 
-- They can do tasks of varying degrees of sophistication, all by just flipping zeros (0) and ones (1). It is remarkable to see how such a simple action can lead to so much complexity. 
-- But I'm sure you all know that such complexity cannot be achieved (practically) by just randomly flipping the numbers. There is indeed some reasoning behind it. There are rules that govern the way this should be done. In the next slide, we will discuss those rules and we will see how they govern the way computers "think".” 
-- logic operators: NOT, AND, OR, and XOR; 
-- A logical expression can only have the values .true. or .false.
-- OR: Also known as Disjunction. This operation is performed on two Boolean variables. The output of the OR operation will be 0 when both of the operands are 0, otherwise it will be 1. 
-- AND: Also known as Conjunction. This operation is performed on two Boolean variables. The output of AND operations will be 1 when both operands are 1, otherwise it will be 0. 
-- NOT: Also known as Negation. This operation is performed only on one variable. If the value of the variable is 1 then this operation simply converts it into 0 and if the value of the variable is 0, then it converts it into 1. 
-- XOR: XOR gate or Exclusive-OR gate is a special type of logic gate which gives 0 as output if both of the inputs are either 0 or 1, otherwise it gives 1
+<!---%%- We all love computers. They can do so many amazing things. Within a couple of decades computers have completely revolutionized almost all the aspects of human life.%% 
+- %%They can do tasks of varying degrees of sophistication, all by just flipping zeros (0) and ones (1). It is remarkable to see how such a simple action can lead to so much complexity.%% 
+- %%But I'm sure you all know that such complexity cannot be achieved (practically) by just randomly flipping the numbers. There is indeed some reasoning behind it. There are rules that govern the way this should be done. In the next slide, we will discuss those rules and we will see how they govern the way computers "think".%%-->
+- Logic is the tool for reasoning about the truth and falsity of statements. There are two main directions in which logic develops.
+-  A rule of replacement is a transformation rule that may be applied to only a particular segment of an expression. A logical system may be constructed so that it uses either axioms, rules of inference, or both as transformation rules for logical expressions in the system. 
+- Philosophy of logic, A rule of **inference**, **inference rule** or **transformation rule** is logical for consisting of a function which takes premises, analyzes their syntax, and returns a conclusion.
+### Logic Operators 
+- A logical expression can only have the values **true** or **false**.
+|Symbol|Char Symbol| Name | Boolean Variables Needed |Definition|
+|---|---|---|---|---|
+|$\lor$|OR| Disjunction| 2 | It will output 0 when both of the operands are 0, otherwise it will be 1|
+|$\land$|AND | Conjunction| 2 | Will output 1 when both operands are 1, otherwise it will be 0|
+|$\neg$   ~  !  '  | NOT| Negation| 1| It simply flips the value, input of 1 is 0 then input of 0 is 1 on the output|
+|$\oplus$| XOR | Exclusive-OR |2 | Special logic gate which give 0 as output if both input are either 1 or 0, otherwise it gives 1 |
 
-![[Pasted image 20221116092333.png]]
+|A| B| not A| A and B| A or B| A xor B|
+|---|---|---|---|---|---|
+| T|T |F |T|T |T |
+| T| F|F|F |T |F |
+| F|T|T |F |T |F |
+| F|F|T |F |F |T |
+
 
 ![[Pasted image 20221116092358.png]]
 
-### Continuation
+<!---%%### Continuation
 #### Overview
-In logic, a rule of replacement is a transformation rule that may be applied to only a particular segment of an expression. A logical system may be constructed so that it uses either axioms, rules of inference, or both as transformation rules for logical expressions in the system. 
+ a rule of replacement is a transformation rule that may be applied to only a particular segment of an expression. A logical system may be constructed so that it uses either axioms, rules of inference, or both as transformation rules for logical expressions in the system. 
 
-- In the philosophy of logic, A rule of **inference**, **inference rule** or **transformation rule** is logical for consisting of a function which takes premises, analyzes their syntax, and returns a conclusion. For example, the rule of inference called *modus ponens* take two premises, one in the form of "If p the q" and another in the form "p", and return the conclusion "q".  
+- In the philosophy of logic, A rule of **inference**, **inference rule** or **transformation rule** is logical for consisting of a function which takes premises, analyzes their syntax, and returns a conclusion. For example, the rule of inference called *modus ponens* take two premises, one in the form of "If p the q" and another in the form "p", and return the conclusion "q".%%--->  
 
 #### Method of Deduction
 Deductive reasoning, or deduction, starts out with a general statement, or hypothesis, and examines the possibilities to reach a specific, logical conclusion, according to California State University. The scientific method uses deduction to test hypotheses and theories.
@@ -29,8 +40,12 @@ Deductive reasoning, or deduction, starts out with a general statement, or hypot
 - A rule of inference use to draw logical conclusions, which states that if p is true, and if p implies q (p q), then q is true.
 
 **Modus Ponens** : Latin for "method of affirming"
+- p implies q is true, then if p is true as well, then q must be true
+- if p then q. p. Therefore, q.
+![[Pasted image 20221118204137.png]]
 **Modus Tollens**: Latin for "method of denying"
-
+- if p, then q. ~q. Therefore ~p.
+- ![[Pasted image 20221118204739.png]]
 
 #### Rules of Replacement
 - the rules of Double Negation (DN), De Morgan's Law (DM), Arrow (AR) and Contraposition (CN) are called rules or replacement, or "two-way rules"
@@ -39,32 +54,36 @@ Deductive reasoning, or deduction, starts out with a general statement, or hypot
 - Double Negation (DN)
 ![[Pasted image 20221117184052.png]]
 
-### Salient Points
+<!---%%### Salient Points
 Logic is the tool for reasoning about the truth and falsity of statements. There are two main directions in which logic develops.
 - The first is the depth to which we explore the structure of statements. The study of the basic level of structure is called propositional logic. First order predicate logic, which is often called just predicate logic, studies structure on a deeper level. 
 - The second direction is the nature of truth. For example, one may talk about statements that are usually true or true at certain times. We study only the simplest situation: a statement is either always true or it is considered false.
-"True" and "false" could be replace by 1 and 0 (or any other two symbols) in our discussions. Using 1 and 0 relates logic to Boolean functions. In fact, *propositional logic* is the study of Boolean functions, where 1 plays the role of “true” and 0 the role of “false.” As we saw in Unit BF, Boolean functions can be thought of as computer circuits. Thus, propositional logic, Boolean functions, and computer circuits are different ways of interpreting the same thing. 
+"True" and "false" could be replace by 1 and 0 (or any other two symbols) in our discussions. Using 1 and 0 relates logic to Boolean functions. In fact, *propositional logic* is the study of Boolean functions, where 1 plays the role of “true” and 0 the role of “false.” As we saw in Unit BF, Boolean functions can be thought of as computer circuits. Thus, propositional logic, Boolean functions, and computer circuits are different ways of interpreting the same thing.%%---> 
 
 ## Proposition
 
-Propositional logic is not sufficient for all our logic needs. Mathematics requires predicate logic. This and other logics are employed in the design of expert systems, robots and artificial intelligence.
+<!---%%Propositional logic is not sufficient for all our logic needs. Mathematics requires predicate logic. This and other logics are employed in the design of expert systems, robots and artificial intelligence.%%
+--->
 
-A proposition is a sentence that is either true or false.
-The definition of a proposition is a statement putting forth an idea, suggestion or plan. An example of a proposition is the idea that the death penalty is a good way to stop crime. An example of a proposition is a suggestion for a change in the terms of company by laws.
-
-In mathematics, we are interested in statements that can be proved or disproved. We define a **proposition** (sometimes called a **statement**, or an **assertion**) to be a sentence that is either true or false, but not both.
+- A proposition is a sentence that is either true or false.
+<!---%%The definition of a proposition is a statement putting forth an idea, suggestion or plan. An example of a proposition is the idea that the death penalty is a good way to stop crime. An example of a proposition is a suggestion for a change in the terms of company by laws.%%
+---->
+- In mathematics, we are interested in statements that can be proved or disproved. We define a **proposition** (sometimes called a **statement**, or an **assertion**) to be a sentence that is either true or false, but not both.
 
 - Joe Biden is the president of the United States.
 - 2 + 3 = 6
 > These are propositions, because each of them is either true or false (but not both).
 
-
-### Salient Points 
-- Usually use the lowercase letters (symbolism) p, q, and r to represent propositions. This can be compared to using variables x, y and z to denote real numbers. Since the truth values of p, q, and r vary, they are called *propositional variables*. A proposition has only two possible values: it is either true or false. We often abbreviate these values as T and F, respectively
-![[Pasted image 20221116101331.png]]
+- Usually use the lowercase letters (symbolism) p, q, and r to represent propositions. 
+<!---%%- This can be compared to using variables x, y and z to denote real numbers.%% 
+--->
+- Since the truth values of p, q, and r vary, they are called *propositional variables*. 
+- only two possible values: it is either true or false. 
+	- Often abbreviate  as T and F, respectively.
 
 ![[Pasted image 20221116101346.png]]
 
+### Other Rules/Terms
 #### Math Symbols
 |Symbol| Symbol Name | Meaning/Definition |Example| Programming|
 |:---:|---|---|---|:---:|
@@ -128,13 +147,12 @@ $$
 - The important fact to keep in mind in set notation, or in any mathematical notation, is that it is meant to be a help, not a hindrance.
 
 ##### Standard Symbols
-- Sets that are frequently encountered are usually given symbols that are reserved for them alone. For example, since we will be refer-ring to the positive integers throughout this book, we will use the symbol $\mathbb{P}$ instead of writing {1,2,3,...}. A few of the other sets of numbers that we will use frequently are:
+- Sets that are frequently encountered usually given symbols that are reserved for them alone. Positive integers are $\mathbb{P}$ instead of writing {1,2,3,...}. A few of the other sets of numbers that we will use frequently are:
 $\mathbb{N}$: the natural numbers {0, 1, 2, 3, 4, ...} (positive numbers but including 0)
 $\mathbb{Z}$: the integers {..., -3, -2, -1, 0, 1, 2, 3, ...}
 $\mathbb{Q}$: the rational numbers
 $\mathbb{R}$: the real numbers
 $\mathbb{C}$: the complex numbers
-
 
 ### Types/Kind of Set
 #### Empty Set
@@ -144,35 +162,37 @@ $\mathbb{C}$: the complex numbers
 #### Singleton Set
 - Also known as unit set
 - Set with exactly one element.
-
 A = {0}
 B = {a}
+
 #### Finite Set
 Set that has finite number of elements (means the amount of elements still has and end). 
-
 - The set of letters in the English Alphabet
 - A = {1,2,3,4,5}
+
 #### Infinite Set
 Set that has uncountable number of elements.
 Uses ellipsis (...)
-
 - A = {1,2,3,4,5,...}
 - Set of counting numbers.
+
 #### Universal Set
 The totality of all the elements of the sets under consideration, denoted by U or μ (pronounced as mu for the greek letter "μ")
 - The set of real numbers.
+
 #### Cardinality
 The number of elements in a set denoted by |A| where A is a set.
+
 #### Subsets
 Where a set has every element of another set.
 Set wherein every element of which can be found on the second set.
 > Let A and B be sets. We say that A is a subset of B if and only if every element of A is an element of A. We write A ⊆ B.
-
 **Some Examples:**
 If A={3,5,8} and B={5,8,3,2,6}, then A ⊆ B
 N ⊆ Z ⊆ Q ⊆ R ⊆ C
 
 If S={3,5,8} and T={5,3,8} then S ⊆ T and T ⊆ S
+
 #### Proper Subset
 Denoted by **⊂**
 If a set has “n” elements, then the number of subset of the given set is 2n and the number of proper subsets of the given subset is given by 2n-1.
@@ -182,9 +202,7 @@ If a set has “n” elements, then the number of subset of the given set is 2n�
 > Let A and B be sets. We say that A is equal to B (notation A=B ) if and only if every element of A is an element of B and conversely every element of B is an element of A; that is, A ⊆ B and B ⊆ A
 
  if A={1,5,3,5} and A={1,5,3}, then A=B
- 
  > $\emptyset$ or empty set or null set is important to be discuss here since $\emptyset$ is a proper subset of every set. Also, the empty set is an improper subset of itself.
-
 
 ## Set Theory
 - Is a branch of mathematics which deals with the study of sets or the collection of similar objects.
@@ -205,7 +223,7 @@ If a set has “n” elements, then the number of subset of the given set is 2n�
 
 
 ### Set Operations
-![[Pasted image 20221118145707.png]]
+%%![[Pasted image 20221118145707.png]]%%
 #### Union
 - Use the symbol **U**
 - set A and B is given, if A U B then the answer will **consist of all elements in sets A and B**.
@@ -255,9 +273,11 @@ Then A-B = {a, b}
 ![[Pasted image 20221118144035.png]]
 
 ### SQL Application 
-#### SQL
+#### [[Structured Query Language|SQL]]
 - A database computer language designed for the retrieval and management of data in a relational database. 
+- Use for Relational database management system (RDBMS), for stream processing in a relational data stream management system
 - Stands for **Structured Query Language**
+
 ![[Pasted image 20221116101517.png]]
 
 ![[Pasted image 20221116101611.png]]
@@ -265,13 +285,24 @@ Then A-B = {a, b}
 ![[Pasted image 20221116101641.png]]
 
 ### Relation
-- A Relation between two sets is a collection of ordered pairs containing one object from each set. If the object x is from the first set and the object y is from the second set, then the objects are said to be related if the ordered pair (x,y) is in the relation. A function is a type of relation
+- A Relation between two sets is a collection of ordered pairs containing one object from each set. 
+- If the object x is from the first set and the object y is from the second set, then the objects are said to be related if the ordered pair (x,y) is in the relation. A function is a type of relation
+- Hence if where finding relationship of A and B. 
+	- Answer could be a subset of A x B
 ![[Pasted image 20221116230130.png]]
 
-![[Pasted image 20221116230205.png]]
+
+#### Cardinal Ratio
+- Mapping **cardinalities** is a concept that describes binary relationship set ( relationship that connects two entity sets) at its types.
+- Its about maximum number of entities of one entity set that are associated with the maximum number of entities of the other entity set.
+![[Pasted image 20221118183700.png]]
+
+
 #### Entity Relationship Diagram
 - Diagram to represent all the relationship of the table. It is needed to be used before creating the table itself on SQL or any database management.
-![[Pasted image 20221116230219.png]]
+![[Pasted image 20221118184602.png]]
+![[Pasted image 20221118184548.png]]
+
 
 ### Function
 - An expression, rule, or law that defines a relationship between one variable (the independent variable) and another variable (the dependent variable). 
@@ -280,8 +311,43 @@ Then A-B = {a, b}
 ![[Pasted image 20221116230255.png]]
 
 #### Applications
-![[Pasted image 20221116230318.png]]
+##### Java
+- It uses as a **method** is a block of code that only runs when its called.
+- You can pass data known as **parameters** into it.
+- They're used to perform certain actions.
 
-![[Pasted image 20221116230330.png]]
+Example: Method Accepting Arguments and Returning Value
+```Java
+public class Main{
+	public static void main(String[] args) {
+		int result, n;
+		n = 3;
+		result = square(n);
+		System.out.println("Square of 3 is: " + result);
 
-![[Pasted image 20221116230415.png]]
+		n = 4;
+		result = square(n);
+		System.out.println("Square of 4 is: " + result);
+		}
+	//method
+	static int square(int i) {
+		return i * i;
+	}
+}
+```
+
+##### Python
+- Uses it as **function**
+- defined using the `def` keyword
+- Same as Java, it is a block of code which only runs when its called.
+- You can:
+	- Pass data known as **parameters**
+	- return data as a result.
+```Python
+def my_function(x): # function that multiplies parameter by 5
+	return 5 * x
+
+print(my_function(3))
+print(my_function(5))
+print(my_function(9))
+```
