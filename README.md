@@ -1,6 +1,12 @@
 # About Notes
 This notes are all focused on skimming and reitirating different subjects but some of it is super concise enough even at the powerpoint slide.
 
+## Use the Release
+- Go to the releases section
+- Click the latest release version
+- Download "2ndYear-Obsidian.zip" only
+> Don't download the source code since it contains the README assets and other attachments not needed to the notes.
+
 ## Needed
 Download Obsidian md to use this one.
 Here's the link
