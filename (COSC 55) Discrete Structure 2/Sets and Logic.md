@@ -7,6 +7,7 @@
 - Philosophy of logic, A rule of **inference**, **inference rule** or **transformation rule** is logical for consisting of a function which takes premises, analyzes their syntax, and returns a conclusion.
 ### Logic Operators 
 - A logical expression can only have the values **true** or **false**.
+
 |Symbol|Char Symbol| Name | Boolean Variables Needed |Definition|
 |---|---|---|---|---|
 |$\lor$|OR| Disjunction| 2 | It will output 0 when both of the operands are 0, otherwise it will be 1|
@@ -119,7 +120,6 @@ Logic is the tool for reasoning about the truth and falsity of statements. There
 ## Set
 In mathematics, a set is a well-defined collection of distinct objects, considered as an object in its own right. The arrangement of the objects in the set does not matter. A set may be denoted by placing its objects between a pair of curly braces.
 - A collection of distinct object, called **elements** of the set
-- Can be defined by describing the contents(set-builder notation), or by listing the elements of the set, enclosed in curly brackets(roster notation).
 
 ![[Pasted image 20221116101431.png]]
 

@@ -30,8 +30,10 @@
 - Uses also for alpanumerics
 
 ### ASCII
-- American Standard Code for Information Interchange
+- **American Standard Code for Information Interchange**
 - Implies some kind of alphanumeric code of the I/O unit of a computer.
+-  Uses **7-bit code that uses alphanumeric** for the I/O unit of a computer.
+- Allows manufacturers to standardize I/O like keyboards, printers, video display, and more.
 ![[Pasted image 20221116091158.png]]
 
 **Alphanumeric**- Letters, number, and other symbols.
@@ -52,12 +54,9 @@
 - The program itself
 - Computers would be a pile of "dumb" without it.
 
-### Memory
-- One of the main parts of computers.
-
 ## Transistors
 - Main reason why computer works
-- **integrated circuits (IC)** contains thousands of these used by computers (but it is now  in the millions in terms of the modern computers).
+- **integrated circuits (IC)** contains thousands of these used by computers (but it is now in the millions in terms of the modern computers).
 - IC still works with *transistor variations* due to its **two-state design**
 	- using only two points on the load line of each transistor.
 	- When a transistors on the left are cut off or saturated, parameter variations have almost no effect.
