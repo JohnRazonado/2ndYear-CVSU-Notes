@@ -1,7 +1,4 @@
 > Need more polishing
-
-
-
 1.    Know your opponent 
 	- “**TALL”** hard to get ball in body shot and drop
 	- **“SMALLER”** hard to get a ball in high and running
