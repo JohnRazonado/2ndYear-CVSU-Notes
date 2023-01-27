@@ -1,30 +1,216 @@
+## Learning Objectives
+- Popular Internet and Web technologies have been applied to business networks in the form of intranet and extranets
+	- Define the terms intranet and extranet and discuss how organizations are using them
+	- Identify several issues associated with the use of networks.
 
+
+# Telecommunication
+### Telecommunication Medium
+- is any material substance that carries an electronic signal to support communications between a sending and receiving device.
+
+## Models of Communication
+
+![[Pasted image 20230127220535.png]]
+
+
+## Communication Media
+
+### Guided Media Types
+
+### Wireless Technology
+
+### Telecommunication Hardware (optional)
+
+### Services (optional)
+
+# Networks and Distributed Processing
+## Computer Network
+- The communications media, devices, and software needed to connect two or more computer systems and/or devices
+
+### Network Types
+#### Personal Area Network (PAN)
+#### Local Area Network (LAN)
+#### Metropolitan Area Networks
+#### Wide Area Networks
+
+### Computer Systems
+**Centralized Processing**
+- Processing alternative in which processing occurs at a single location or facility
+
+**Decentralized Processing**
+- Processing alternative in which processing devices are placed at remote locations.
+
+**Distributed Processing**
+- Processing alternative in which computers are placed at remote locations but are connected to each other via a network.
+
+**Client/Server Architecture**
+- An architecture in which multiple computer platforms are dedicated to special functions such as database management, printing, communications, and program execution.
+
+**Communication Protocol**
+- A set of rules that govern the exchange of information over a communications channel.
+
+### Communications Software
+**Network operating System (NOS)**
+- Systems software that controls the computer systems and devices on a network and allows them to communicate with each other.
+
+**Network-management software**
+- Software that enables a manager on a networked desktop to monitor the use of individual computers and shared hardware (such as printers), scan for viruses, and ensure compliance with software licenses
+
+> Stopped here at ANKI
+
+# The Internet
+### ARPANET
+- Ancestor of the Internet
+- Project started by the U.S. Department of Defense (DoD) in 1969
+
+### Internet Protocol (IP)
+- Enables computers to route communication traffic from one network to another.
+
+## How Internet Works
+**IP Protocol**
+- Set of rules used to pass packets from one host to another
+**IP address**
+- 64-bit number that identifies a computer on the Internet
+**Uniform Resource Locator (URL)**
+- Web address that specifies the exact location of a Web page
+**Accessing the Internet**
+- Access method determined by the size and capability of your organization or system
+**Connect via LAN server:**
+- Business LAN servers are typically connected to the Internet at very fast data rate
+**Connecting via *Internet service providers*:**
+- An ISP is any organization that provides Internet access to people
+
+
+## Cloud Computing
+- Computing environment in which:
+	- Software and storage are provided as on Internet service and accessed with a Web browser
+- Extremely scalable and often takes advantage of virtualization technologies
+- Advantages to businesses:
+	- Businesses can save on system deign, installation, and maintenance
+	- Employees can access corporate systems rom any Internet-connected computer
+
+## The World Wide Web (WWW)
+- Developed by Time Berners-Lee at CERN
+- Originally conceived of as an internal document-management system
+- The Web has grown to become:
+	- A primary source of news and information
+	- An indispensable conduit for commerce
+	- A popular hub for social interaction, entertainment, and communication 
+
+
+## How the Web Works
+- The Internet:
+	- Made up of computers, network hardware such as routers and fiber-optic cables, software, and the TCP/IP protocols
+- The Web:
+	- Consists of server and client software, the hypertext transfer protocol (http), standards, and mark-up languages that combine to deliver information and services over the Internet.
+- HTML tags:
+	- Tell the Web browser how to format text
+- Extensible Markup Language (XML)
+	- Markup language for Web documents containing structured information
+- Cascading Style Sheet (CSS)
+	- Markup language that defines the visual appearance of content in a Web page.
+
+## Web Programming Languages
+- Java
+	- Object-oriented programming language from Sun Microsystems based on C++
+	- Allows small programs (applets) to be embedded within an HTML document
+- Other languages:
+	- JavaScript, VBScript, and ActiveX
+	- Hypertext Preprocessor (PHP)
+
+## Web Services
+- Standards and tools that streamline and simplify communication among Web sites
+- XML:
+	- The key to Web services
 ## Internet and Web Applications
 > Media Sharing to Entertainment on The Web
+- Popular uses for the Internet and Web:
+	- Publishing information
+	- Assisting users in finding information
+	- Supporting communication and collaboration
+	- Building online community
+	- Providing software applications
+	- Providing a platform for expressing ideas
+	- Delivering media of all types
+	- Providing a platform for commerce 
+	- Supporting travel and navigation
+
+### Online Information Sources
+- News and opinion:
+	- The Web is a powerful tool for keeping informed about local, state, national, and global news
+- Education and training:
+	- Web is ideally suited:
+		- As a tool for sharing information and a primary repository of information on all subjects
+	- Distance education
+		- Conducting classes over the Web with no physical class meetings
+	- Business Information:
+		- Businesses often use Internet and Web-based systems for knowledge management
+	- Personal and professional advice and support:
+		- Medical and health Web sites assist in diagnosing health problems and advising on treatments
+		- The Web is an excellent source of job-related information
+
+### Search Engines and Web Research
+- Search engine:
+	- Enables you to find information on the Web by specifying keywords
+	- Market is dominated by Google
+	- Uses an automated approach that scours that Web with automated programs called spiders.
+- Wikipedia:
+	- Can be used for online research
+- Wikimedia:
+	- Has wiki for books, news, media, and open learning
+
+### Communication and Collaboration
+- E-mail:
+	- Internet communication
+	- Supports text communication, HTML content, and sharing documents as e-mail attachments
+- Instant messaging:
+	- Online, real-time communication between two or more people who are connected to the Internet
+- Microblogging, status updates, and news feeds:
+	- Twitter is a Web application that allows members to report on what they are going throughout the day.
+- Conferencing
+	- Internet has made it possible for those involved in teleconferences to share computer desktops
+	- Telepresence takes video conferencing to the ultimate level
+	- Free software is available to make video chat easy to use for anyone with a computer, Web cam, and a high-speed Internet connection.
+
+### Web 2.0 and the Social Web
+- Web sites such as YouTube and Flickr allows users to share video and photos
+- Epinions and many retail Web sites allow consumers to voice their opinion about products
+- Some businesses are including social networking features in their products
 
 ### Rich Internet Applications
 - Software that has the functionality and complexity of a traditional application software but runs in a Web Browser.
 - It is the result of continuously improving programming languages and platforms designed for the Web.
+
 #### Web Office Application
-- An Internet office is a Web sites that contains files, phone numbers, e-mail addresses,  appointment calendar, and more.
+- An Internet office is a Web sites that contains files, phone numbers, e-mail addresses, appointment calendar, and more.
 - Many of these services offers remote access to your files and programs over the Internet to be able to access everywhere and anywhere.
 	- Microsoft Office suite and the Google family business are example of these online document storage and sharing.
+
+### Blogging and Podcasting
+- Web log:
+	- Web site that people can create and use to write about their observations, experiences, and opinions on a wide range of topics
+- Blogger:
+	- Person who creates a blog
+- Blogging:
+	- The process of placing entries on a blog site
+- Podcast:
+	- Audio broadcast over the Internet
 
 ### Media Sharing
 > Web 2.0 and the Social Web
 - Web sites such as YouTube and Flickr allows users to share video and photos
-
 - Some businesses are including social networking features in their products
 
-### Content Streaming
+### Online Media and Entertainment
+#### Content Streaming
 A method for transferring multimedia files over the Internet so that the data stream of voice and picture plays more or less continuously without a break, or very few of them; enables users to browse large file in real time.
 
-### Music
+#### Music
 - The Web has had dramatic impact on the music industry
 - Internet radio is digitally delivered to your computer over the Internet
 - Compressed music formats such as MP3 have made music swapping popular.
 
-### Online Media and Entertainment
+
 #### E-books and audio books
 - E-book is a book stored digitally
 - Audio books are books that has a voice narration to guide the reader
