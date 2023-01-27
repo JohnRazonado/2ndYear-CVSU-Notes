@@ -36,7 +36,8 @@ To which there are many [[Repository of Primary Sources (Repositoryo ng mga sang
 - Patents
 - Photographs
 - Proceedings of Meetings, conferences and symposia
-- Records of organizations, government agencies (e.g. annual report, treaty, constitution, government document)
+- Records of organizations, government agencies (e.g. annual report, treaty, constitution, government
+- document)
 - Speeches
 - Survey Research (e.g., market surveys, public opinion polls)
 - Video recordings (e.g. television programs)
@@ -70,12 +71,12 @@ To which there are many [[Repository of Primary Sources (Repositoryo ng mga sang
 
 ### Historical Methodology
 it comprises certain techniques and rules that historians follow in order to properly utilize sources and historical evidences in writing history.
-- Part of the [[2nd Year/(GNED 04) Kasaysayan sa Pilipinas/Introduction#Historiography|Historiography]]
+- Part of the [[2nd Year/(GNED 04) Kasaysayan sa Pilipinas/Midterm/Introduction#Historiography|Historiography]]
 
 ##  [[Historical Criticism]]
 - A way to ascertain the authenticity and reliability of primary sources to be used in crafting a narrative
 - There are two levels of historical criticism
-	- **[[external criticism]]**
+	- **[[External Criticism]]**
 	- **internal criticism.** 
 
 ### [[External Criticism]]/ Kritikang Panlabas
