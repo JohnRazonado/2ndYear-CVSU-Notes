@@ -96,6 +96,16 @@ CREATE TABLE table_name(
       etc,)
 ```
 
+Example:
+```SQL
+CREATE TABLE salesman(
+	salesman_id int,
+    name varchar(255),
+    city varchar(255),
+    commission float
+);
+```
+
 SQL DESC Statement:
 ```SQL
 DESC table_name;
@@ -143,9 +153,30 @@ INSERT INTO table_name( column1, column2....columnN) VALUES ( value1, value2....
 INSERT INTO table_name  VALUES ( value1, value2....valueN);
 ```
 
+[Insert multiple rows](https://www.freecodecamp.org/news/insert-into-sql-how-to-insert-into-a-table-query-example-statement/)
+```SQL
+INSERT INTO table_name (column1, column2, column3,etc)
+VALUES 
+	(value1, value2, value3, etc),
+    (value1, value2, value3, etc),
+    (value1, value2, value3, etc);
+```
+
+
 Example:
 ```SQL
 INSERT INTO us_states VALUES (1, "California", "California Poppy");
+```
+
+```SQL
+INSERT INTO salesman(salesman_id, name, city, commission)
+VALUES
+	(5001, "James Hoog", "New York", 0.15),
+    (5002, "Nail Knite", "Paris", 0.13),
+    (5005, "Pit Alex", "London", 0.11),
+    (5006, "Mc Lyon", "Paris", 0.14),
+    (5007, "Paul Adam", "Rome", 0.13),
+    (5003, "Lauson Hen", "San Jose", 0.12);
 ```
 
 **SQL SELECT Statement:**
