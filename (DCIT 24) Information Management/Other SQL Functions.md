@@ -108,7 +108,7 @@ SELECT COUNT(column_name) FROM table_name WHERE condition;
 
 Example
 ```SQL
-SELECT COUNT(grade) FROM custo![[Pasted image 20230119060230.png]]mer;
+SELECT COUNT(grade) FROM customer;
 
 SELECT COUNT(grade) FROM customer WHERE grade=200;
 ```
@@ -123,7 +123,7 @@ Output
 |3||
 
 ### AVG
-Function returns the average value o a numeric column.
+Function returns the average value on a numeric column.
 
 ```SQL
 SELECT AVG(column_name) FROM table_name WHERE condition;
@@ -163,7 +163,7 @@ Output
 
 
 ### MIN
-Function that returns the largest value of the selected column
+Function that returns the smallest value of the selected column
 
 ```SQL
 SELECT MIN(column_name) FROM table_name WHERE condition;
