@@ -65,15 +65,17 @@
 -  if data type change, the data will change too for example.
 
 ### Data independence
-- Data storage characteristics is changed without affecting the program's ability to access the dat
+- Data storage characteristics is changed without affecting the program's ability to access the data
 -  Doesn't connected to end so on.
 
 ## Data Redundancy
 - Unnecessarily storing same data at different places.
 - Islands of information
+	- Scattered data locations.
+	- Increases probability of having different versions of the same data.
 - Implications
 	- Poor data security
 	- Data inconsistency
 	- Increased likelihood of data-entry errors when complex entries are made of different files
 	- Data anomaly:
-		- asdf
+		- Develops when not all of the required changes in the redundant data are made successfully.
