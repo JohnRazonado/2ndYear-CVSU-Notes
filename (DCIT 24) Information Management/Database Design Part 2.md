@@ -5,7 +5,7 @@
 3. Understand how to manage Database System
 
 ## Database
->- Data - Collection of Facts
+>- [[2nd Year/(DCIT 24) Information Management/Introduction#Data|Data]] - Collection of Facts
 >- Base - Storage Device
 - Shared, integrated computer structure that stores a collection of:
 	- End-user data - Raw facts of interest to end user
@@ -66,8 +66,6 @@ It is a database software application where you stores the data in such a way th
 ### Database System Environment
 ![[Pasted image 20230129220025.png]]
 
-![[Pasted image 20230119055639.png]]
-
 ### Roles of DBMS
 - Intermediary between the user and the database
 - Enables data to be shared
@@ -79,12 +77,8 @@ It is a database software application where you stores the data in such a way th
 
 ![[Pasted image 20230129214618.png]]
 
-![[Pasted image 20230119055712.png]]
-
 ### Contrasting Database and File Systems
 ![[Pasted image 20230129220050.png]]
-
-![[Pasted image 20230119055719.png]]
 
 ### DBMS Functions
 1.  **Data Dictionary management**
@@ -111,7 +105,6 @@ It is a database software application where you stores the data in such a way th
 9. **Database communication interface** - Accept end-user requests via multiple, different network environments.
 
 ## Basic File Terminology
-![[Pasted image 20230119055802.png]]
 1. Field - could be **Attribute** or **Field Name**  
 2. Record - **Tuple**, the value of the field or attribute  
 3. File - the whole system.
