@@ -1,5 +1,5 @@
-
-## Principles and Learning Objectives
+> need to work on and so on.
+%%## Principles and Learning Objectives
 - Electronic commerce and mobile commerce are evolving, providing new ways of conducting business that present both opportunities for improvement and potential problems
 	- Describe the current status of various forms of e-commerce, including B2B, B2C, C2C, and m-commerce 
 	- Identify several e-commerce and m-commerce applications 
@@ -12,10 +12,10 @@
 	- Identify key control and management issues associated with transaction processing systems
 - A company that implements an enterprise resource planning system is creating a highly integrated set of systems, which can lead to many business benefits 
 	- Discuss the advantages and disadvantages associated with the implementation of an enterprise resource planning system 
-	- Identify the challenges multinational corporations must face in planning, building, and operating their TPSs
+	- Identify the challenges multinational corporations must face in planning, building, and operating their TPSs%%
 
 ## An Introduction to Electronic Commerce
-- Electronic commerce – Conducting business activities electronically over computer networks such as the Internet, extranets, and corporate networks
+- **Electronic commerce** – Conducting business activities electronically over computer networks such as the Internet, extranets, and corporate networks ^8b8f1c
 - Business activities that are strong candidates for conversion to e-commerce: 
 	- Paper-based 
 	- Time-consuming 
@@ -31,21 +31,28 @@
 	- Elimination of intermediaries 
 		- Squeezes costs and inefficiencies out of supply chain 
 		- Can lead to higher profits for companies and lower prices for consumers
+>A form of e-commerce in which customers deal directly with an organization and avoid intermediaries.
 
 ### Consumer-to-Consumer (C2C) E-Commerce
 - Consumer-to-consumer (C2C) e-commerce 
 	- Consumers sell directly to other consumers 
 	- Example: eBay
+>A subset of e-commerce that involves consumers selling directly to other consumers.
 
 ### eGovernment
 - Use of information and communications technology to: 
 	- Simplify the sharing of information 
 	- Speed formerly paper-based processes 
 	- Improve the relationship between citizen and government 
+
+> The use of information and communications technology to simplify the sharing of information, speed formerly paper-based processes, and improve the relationship between citizen and government.
 - Forms of eGovernment 
 	- Government-to-consumer (G2C)
+		- used to submit their state and federal tax returns online, renew auto licenses, apply for student loans, and make campaign contributions.
 	- Government-to-business (G2B) 
+		- support the purchase of materials and services from private industry by government procurement offices
 	- Government-to-government (G2G)
+		- designed to improve communications among the various levels of government. 
 
 ## Mobile Commerce
 - Relies on the use of wireless devices, such as personal digital assistants, cell phones, and smart phones, to place orders and conduct business
@@ -58,13 +65,13 @@
 
 ## Electronic and Mobile Commerce Applications
 - Retail and wholesale 
-	- Electronic retailing (e-tailing) 
-	- Direct sale from business to consumer through electronic storefronts
+	- **Electronic retailing (e-tailing)**  ^5b05dc
+		- Direct sale from business to consumer through electronic storefronts
 - Cybermall 
 	- Single Web site that offers many products and services at one Internet location
 
 ### Manufacturing
-- Electronic exchange 
+- **Electronic exchange**  ^9623cb
 	- Electronic forum where manufacturers, suppliers, and competitors buy and sell goods, trade market information, and run back-office operations 
 - Private exchanges 
 	- Owned and operated by a single company 
@@ -158,6 +165,7 @@
 		- Can provide secure transmission 
 	- Digital certificates 
 		- Can ensure that transactions are made between the intended parties
+		- An attachment to an e-mail message or data embedded in a Web site that verifies the identity of a sender or Web site.
 
 ### Electronic Payment Systems
 - Certificate authority (CA) 
@@ -184,7 +192,8 @@
 
 ## An Overview of Enterprise Systems: Transaction Processing Systems and Enterprise Resource Planning
 
-- Enterprise system 
+- **Enterprise system**
+	- A system central to the organization that ensures information can be shared across all business functions and all levels of management to support the running and managing of a business.
 	- Ensures information can be shared across all business functions and all levels of management 
  - Transaction processing systems
 	 -  Capture and process the detailed data necessary to update records about the fundamental business operations of the organization
@@ -192,14 +201,14 @@
 > Figure 5.4 - TPS, MIS/DSS and Special Information Systems in Perspective
 
 ### Traditional Transaction Processing Methods and Objectives
-- Batch processing system
+- **Batch processing system** ^9bead7
 	-  Business transactions are accumulated over a period of time and prepared for processing as a single unit or batch 
- - Online transaction processing (OLTP) 
+ - **Online transaction processing (OLTP)** 
 	 - Each transaction is processed immediately, without the delay of accumulating transactions into a batch
 ![[Pasted image 20230124124958.png]]
 > Figure 5.5 - Batch Versus Online Transaction Processing
 > (a) Batch processing inputs and processes data in groups.
-> (b) In online processing, transactions are completed as they occur.
+> (b) In online processing, transactions are completed as they occur. ^58f2ff
 
 ![[Pasted image 20230124125116.png]]
 > Figure 5.6 - Integration of a Firm's TPSs

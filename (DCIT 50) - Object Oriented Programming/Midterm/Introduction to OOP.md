@@ -15,6 +15,9 @@ This part will discuss the fundamentals of OOP, from making everything as an obj
 
 ## Terms used in OOP design
 - **Coupling** - Knowledge or information or dependency of another class. Arises when classes are aware of each other.
+	- It mostly refers to how related or dependent two classes/ modules to one another. 
+	- Low coupling - major changes in one class won't affect the other.
+	- High coupling - major changes will affect another class making it difficult to maintain.
 - **Cohesion** - Levels of a component which performs a single well-define task.
 	- A highly cohesive method do single well-defined task.
 - **Association** - Relationship between objects ^e7dd84
@@ -22,15 +25,22 @@ This part will discuss the fundamentals of OOP, from making everything as an obj
 	- One to Many
 	- Many to One
 	- Many to Many
-- **Aggregation** - Way to achieve [[Introduction to OOP#^e7dd84|Association]]. Represents relationship where one object contains other as part of its state.
+- **Aggregation** - Way to achieve [[Introduction to OOP#^e7dd84|Association]]. Represents relationship where one object contains other as part of its state. ^96c534
 	- It is a pure **has-a** relationship where objects are independent of each other.
 	- If we delete the parent class, the child will still exist.
-- **Composition** - Also a way to achieve [[Introduction to OOP#^e7dd84|Association]]. Represents the relationship where one object contains other objects as a part of its state.
+	- A "uses" B = Aggregation : B exists independently (conceptually) from A
+- **Composition** - Also a way to achieve [[Introduction to OOP#^e7dd84|Association]]. Represents the relationship where one object contains other objects as a part of its state. ^08727e
 	- Specific type of aggregation where objects are dependent to one another
-	- Child objects have a lifetime where if we delete the parent class, child also gets yeeted away too.
+	- Child objects have a lifetime where if we delete the parent class, child also gets cease to exist.
+	- Also referred as "[death](https://www.infoworld.com/article/3029325/exploring-association-aggregation-and-composition-in-oop.html)" relationship
+	- A "owns" B = Composition : B has no meaning or purpose in the system without A
 
+Example of [[Introduction to OOP#^96c534|Aggregation]] vs. [[Introduction to OOP#^08727e|Composition]]:
+> A Text Editor owns a Buffer (composition). A Text Editor uses a File (aggregation). When the Text Editor is closed, the Buffer is destroyed but the File itself is not destroyed.
+>- [Curtis Batt](https://softwareengineering.stackexchange.com/questions/61376/aggregation-vs-composition)
 
-
+Good software design has **high cohesion** and **low coupling**.
+> - See this [stackoverflow query](https://stackoverflow.com/questions/3085285/difference-between-cohesion-and-coupling)
 
 ## Concepts
 OOP is created to really simplifies software development and maintenance by having the following concepts:

@@ -5,15 +5,17 @@
 
 
 ## Modules Topics
-### Telecommunication the Internet, Intranets, and Extranets
-- Hypertext Markup Language
+### [[Chapter 4 - Telecommunicatuions, the Internet, Intranets, and Extranets|Telecommunication the Internet, Intranets, and Extranets]]
+- [[Chapter 4 - Telecommunicatuions, the Internet, Intranets, and Extranets^html|Hypertext Markup Language]]
 - Network Operating System
 - telecommunications medium
 - Computer Network ( See chapter 2 **Technology**)
 - Search Engine
 - Client/Server Architecture
-- Hyperlink Wide Area Network
+- Hyperlink 
+- Wide Area Network
 - Metropolitan Area Network
+- Local area network
 - Web Portal
 - Web Browser
 - Personal Area Network
@@ -21,56 +23,56 @@
 - HTML tags
 - Cascading Style Sheet
 - Extensible Markup Language
-- Documentation Production (See Chapter 2 **Hardware and Software**)
 - Uniform Resource Locator
 - Centralized Processing
 - Distributed Processing
 - Internet Service Provider
 - Decentralized Processing
 
-### Electronic and mobile commerce and Enterprise system
-- Enterprise System
-- Electronic retailing
-- E-government
-- Online Transaction processing
-- Batch Processing System 
+### [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems|Electronic and mobile commerce and Enterprise system]]
+- [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems#An Overview of Enterprise Resource Planning|Enterprise System]]
+- [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems#^5b05dc|Electronic retailing]]
+- [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems#eGovernment|E-government]]
+- [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems#^58f2ff|Online Transaction processing]]
+- [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems#^9bead7|Batch Processing System ]]
 - Certificate Authority
 - Data Collection
-- Electronic Exchange
-- Electronic Commerce
+- [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems#^9623cb|Electronic Exchange]]
+- [[Chapter 5 - Electronic and Mobile Commerce and Enterprise Systems#^8b8f1c|Electronic Commerce]]
 - Data Editing
 - Data Manipulation
 - Data Storage
 - B2B
 - C2C
 - Data Correction
+- Documentation Production
 - B2C
 - Digital Certificate
 - Market Segmentation
 
-### Information and Decision Support
+### [[Chapter 6 - Information and Decision Support Systems|Information and Decision Support]]
 - Satisficing Model
 - Problem Solving
-- Profit center
 - Quality Control
 - Optimization Model
-- Cost center
 - Intelligence Stage
-- Local area network
 - Monitoring stage
 - Demand Report
 - Design Stage
 - Implementation stage
 - Choice Stage
 - Nonprogrammed Decision
+- Programmed Decision
 - Drill down report
 - Scheduled reports.
 - Key-Indicator report
-- Internal auditing
 - Exception report
+- Profit center
+- Cost center
 - External auditing
-- Programmed Decision
+- Internal auditing
 - Revenue center
+
 
 
 

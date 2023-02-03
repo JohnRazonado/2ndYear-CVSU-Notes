@@ -14,12 +14,20 @@
 
 
 ## Communication Media
+Transmission media can be divided into two broad categories: guided transmission media, in which communications signals are guided along a solid medium, and wireless, in which the communications signal is broadcast over airwaves as a form of electromagnetic radiation.
 
 ### Guided Media Types
+![[Pasted image 20230131070024.png]]
 
 ### Wireless Technology
+Wireless communications coupled with the Internet is revolutionizing how and where we gather and share information, collaborate in teams, listen to music or watch video, and stay in touch with our families and co-workers while on the road.
+
+![[Pasted image 20230131070106.png]]
 
 ### Telecommunication Hardware (optional)
+Telecommunications hardware devices include modems, multiplexers, PBXs and front-end processors that enable electronic communications to occur or occur more efficiently. Switches, bridges, routers and gateways are devices for sending packets of data through one or more networks
+
+![[Pasted image 20230131070220.png]]
 
 ### Services (optional)
 
@@ -29,9 +37,16 @@
 
 ### Network Types
 #### Personal Area Network (PAN)
+A network that supports the interconnection of information technology within a range of 33 feet or so.
+
 #### Local Area Network (LAN)
+A network that connects computer systems and devices within a small area like an office, home, or several floors in a building.
+
 #### Metropolitan Area Networks
+A telecommunications network that connects users and their devices in a geographical area that spans a campus or city.
+
 #### Wide Area Networks
+A telecommunications network that ties together large geographic regions
 
 ### Computer Systems
 **Centralized Processing**
@@ -55,9 +70,6 @@
 
 **Network-management software**
 - Software that enables a manager on a networked desktop to monitor the use of individual computers and shared hardware (such as printers), scan for viruses, and ensure compliance with software licenses
-
-> Stopped here at ANKI
-
 # The Internet
 ### ARPANET
 - Ancestor of the Internet
@@ -96,6 +108,8 @@
 	- A primary source of news and information
 	- An indispensable conduit for commerce
 	- A popular hub for social interaction, entertainment, and communication 
+- A collection of tens of millions of server computers that work together as one in an Internet service using hyperlink technology to provide information to billions of users
+
 
 
 ## How the Web Works
@@ -103,12 +117,16 @@
 	- Made up of computers, network hardware such as routers and fiber-optic cables, software, and the TCP/IP protocols
 - The Web:
 	- Consists of server and client software, the hypertext transfer protocol (http), standards, and mark-up languages that combine to deliver information and services over the Internet.
+- HTML:
+	- Hypertext Markup Language (HTML)
+	- is the standard page description language for Web pages.
 - HTML tags:
 	- Tell the Web browser how to format text
 - Extensible Markup Language (XML)
 	- Markup language for Web documents containing structured information
 - Cascading Style Sheet (CSS)
 	- Markup language that defines the visual appearance of content in a Web page.
+	- A file or portion of an HTML file that defines the visual appearance of content in a Web page
 
 ## Web Programming Languages
 - Java
@@ -119,7 +137,7 @@
 	- Hypertext Preprocessor (PHP)
 
 ## Web Services
-- Standards and tools that streamline and simplify communication among Web sites
+- Standards and tools that streamline and simplify communication among Websites.
 - XML:
 	- The key to Web services
 ## Internet and Web Applications
@@ -151,6 +169,7 @@
 
 ### Search Engines and Web Research
 - Search engine:
+	- A valuable tool that enables you to find information on the Web by specifying words that are key to a topic of interest, known as keywords
 	- Enables you to find information on the Web by specifying keywords
 	- Market is dominated by Google
 	- Uses an automated approach that scours that Web with automated programs called spiders.
@@ -274,6 +293,8 @@ This issues will cover that whole types of network.
 - **Telecommunications** - the electronic transmission of signals for communications, including telephone, radio, and television
 - **The Internet** - Truly international in scope, with users on every continent (Including Antartica?)
 - **Cloud computing** - Computing environment where software and storage are provided as an Internet service and accessed with a Web browser
+- **Web browser** - Web client software, like Internet Explorer, Firefox, and Safari, used to view Web pages.
+- **Hyperlink** - Highlighted text or graphics in a Web document, that, when clicked, open a new Web page or section of the same page containing related content.
 - **The Web** - Collection of tens of millions of servers that work together as one in an Internet service
 	- Has become the most popular medium for distributing and accessing information
 - **Web 2.0** - The Web as a computing platform that supports software applications and the sharing of information between users.

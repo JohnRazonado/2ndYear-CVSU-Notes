@@ -1,4 +1,3 @@
-
 > I will combine all notes the professor provided us as well as the lecture on Saylor since the recent notes are very lacking of in-depth details.
 
 This is the continuation of Discrete Structure 1. Providing the combinatorics and probability theory required in design and analysis of algorithms, in system analysis, and in other areas of computer science.
@@ -30,7 +29,7 @@ Most mathematics of computer science course or alike of it is built mostly by Di
 
 **[[Overview - Prob Comb Algo#Combinatorics|Combinatorics]]** - Branch of mathematics that studies the enumeration, combination and permutation of sets of elements.
 
-**[[Probability]]** - Likeliness of something is to happen. Whenever we're unsure about the outcome of an event.
+**[[2nd Year/(COSC 55) Discrete Structure 2/Midterm/Probability]]** - Likeliness of something is to happen. Whenever we're unsure about the outcome of an event.
 
 **[[Random Variable]]** - Numerical description of the outcome of statistical experiment. Set of possible values from a random experiment.
 

@@ -57,7 +57,7 @@ Ibanghay ang mga sumusunod na pangyayari:
 
 ## Reporma sa Lupa
 - Sa panahon ng Amerikano, ipinatupad ang pagtatakda ng sa pamamahagi ng mga publikong lupain. Mayroon ding batas ng pagpapaupa. Bagamat, maraming magsasaka parin ang walang titulo ng lupa.
-- Ang Agricultural Land Reform Code noong 1963 ay  nilayon an magbigyan ng sari-sariling lupa ang mga magsasaka ngunit hindi ito napatupad.
+- Ang Agricultural Land Reform Code noong 1963 ay  nilayon na magbigyan ng sari-sariling lupa ang mga magsasaka ngunit hindi ito napatupad.
 - Noong Batas Militaar, nagkaroon ng Tenant's Emanicipation Act noong 1972
 	- Nagkaroon ng malawakang paglilipat ng mga pribadong lupain sa mga magsasakang nangungupahan dito
 - Naisulong naman ni Pangulong Corazon ang **Comprehensive Agrarian Reform (CARP)** na layuning maibahagi ang milyong ektaryang lupain.

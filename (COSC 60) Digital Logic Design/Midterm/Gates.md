@@ -65,15 +65,15 @@ Symbol:
 
 #### Decision-Making Elements
 - Inverter, OR gate, and AND gate are often called **decision-making elements**
-	- They can recognize some input words while disregarding others
-	- A gate recognized a word when its output is high.
-	- Disregards a word when its output is low.
+	- They can recognize some input [[Gates#^2d4f3a|words]] while disregarding others
+	- A gate recognized a [[Gates#^2d4f3a|word]] when its output is high.
+	- Disregards a [[Gates#^2d4f3a|word]] when its output is low.
 
 ### Truth Table
 - A table that shows all input and output possibilities for a logic circuit.
-- Input words are listed in binary progression.
+- Input [[Gates#^2d4f3a|words]] are listed in binary progression.
 
-> Note: The table always starts at 0 input words or the input are 0's
+> Note: The table always starts at 0 input [[Gates#^2d4f3a|words]] or the input are 0's
 
 Sample:
 ![[Pasted image 20221118222256.png]]
@@ -92,4 +92,4 @@ Table 2-8 summarizes that the circuit recognizes these input words:
 - 1110
 - 1111
 
-**Word** - A string of bits that represent a coded instruction or data.
+**Word** - A string of bits that represent a coded instruction or data. ^2d4f3a
