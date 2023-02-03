@@ -6,7 +6,7 @@ Many engineers and technicians don’t simplify equations with boolean algebra. 
 ![[Pasted image 20230128162829.png]]
 
 ### Definition
- It is a method to simplify Boolean algebra expressions. Introduced by Maurice Karnaugh in 1935as a refinement of Edward W. Veitch's 1952 Veitch chart. The Karnaugh map reduces the need for extensive calculations by taking advantage of humans' pattern-recognition capability. Karnaugh maps are used to simplify real-world logic requirements so that they can be implemented using a minimum number of logic gates. A sum-of-products expression (SOP) can always be implemented using AND gates feeding into an OR gate, and a product-of-sums expression (POS) leads to OR gates feeding an AND gate.
+ It is a method to simplify Boolean algebra expressions. Introduced by Maurice Karnaugh in 1935 as a refinement of Edward W. Veitch's 1952 Veitch chart. The Karnaugh map reduces the need for extensive calculations by taking advantage of humans' pattern-recognition capability. Karnaugh maps are used to simplify real-world logic requirements so that they can be implemented using a minimum number of logic gates. A sum-of-products expression (SOP) can always be implemented using AND gates feeding into an OR gate, and a product-of-sums expression (POS) leads to OR gates feeding an AND gate.
 
 >If the given Boolean expressions are in SOP form (minterms), then the array of K-map is represented with the binary value ‘1’. Similarly, if the given expression is in POS form (max terms), then the array of K-map is represented with ‘1’. After finding minterms and max terms, the expression can be reduced by making groups. The karnaugh map gives detailed information better than the truth table.
 
@@ -31,9 +31,9 @@ A graphical display of the fundamental products in a truth table.
 ### Octet
 A group of eight adjacent 1s on a [[Karnaugh Mapping|Karnaugh map]].
 ### Pair 
-A group of two adjacent Is on a [[Karnaugh Mapping|Karnaugh map]]. These 1s may be horizontally or vertically aligned. 
+A group of two adjacent 1s on a [[Karnaugh Mapping|Karnaugh map]]. These 1s may be horizontally or vertically aligned. 
 ### Quad
-A group of four adjacent Is on a [[Karnaugh Mapping|Karnaugh map]]. 
+A group of four adjacent 1s on a [[Karnaugh Mapping|Karnaugh map]]. 
 ### Redundant group
 A group of 1s on a [[Karnaugh Mapping|Karnaugh map]] all of which are overlapped by other groups.
 ### Sum-of-products circuits
