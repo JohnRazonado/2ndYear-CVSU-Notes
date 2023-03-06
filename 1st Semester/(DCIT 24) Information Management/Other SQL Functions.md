@@ -245,6 +245,20 @@ ADD FOREIGN KEY (salesman_id) REFERENCES salesman(salesman_id);
 ```
 > Note: The references needs to be a PRIMARY KEY to have the link be a FOREIGN KEY
 
+or 
+
+```SQL
+ALTER TABLE favorite_food
+    ADD CONSTRAINT fk_fav_food_person_id FOREIGN KEY (person_id)
+          REFERENCES person (person_id);
+```
+>to also managed the name of the foreign key
+
+If you need to [remove](https://stackoverflow.com/questions/13606469/cannot-change-column-used-in-a-foreign-key-constraint)
+```SQL
+ALTER TABLE customer  
+DROP FOREIGN KEY salesman_id;
+```
 
 
 ## Auto Increment Field

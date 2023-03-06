@@ -152,7 +152,7 @@
 	- Static and dynamic Web pages
 
 ### E-Commerce Software
-- Catalog Management
+- Catalog Management ^4622d7
 - Product Configuration
 - Shopping Cart
 -  Web Services
@@ -271,7 +271,7 @@
 	- Are the information systems and procedures producing accurate and honest reports?
 
 ## Traditional Transaction Processing Application
-- A TPS typically includes the following types of systems 
+- A TPS typically includes the following types of systems  ^c12bee
 	- Order processing systems 
 	 - Accounting systems 
 	 - Purchasing systems

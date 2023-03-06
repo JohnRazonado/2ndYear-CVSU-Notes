@@ -1,6 +1,7 @@
 >Need to gather more ideas and so on.
 
 ## Ideas
+> See [[Methodology]] to check it.
 ### Restaurant Inventory Manager
 - Tablet system
 	- Will check all the ingredients needed for a certain dish
@@ -12,12 +13,7 @@
 	- Predict the amount of ingredients needed for the week
 	- Predict the amount of sales
 
-### Methodology of Software Coding
-#### Agile
-#### SCRUM
-#### REST
-#### Waterfall
-Still unknown what to really do now.
+
 
 
 ### Train connection system
