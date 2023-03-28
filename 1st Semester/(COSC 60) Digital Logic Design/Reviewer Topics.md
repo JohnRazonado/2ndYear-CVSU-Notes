@@ -1,5 +1,5 @@
 ## Core Topics
-- [[Boolean Algebra]]
+- [[2nd Year/1st Semester/(COSC 60) Digital Logic Design/Boolean Algebra]]
 - [[More Logic Gates|Advance Logic gates]]
 - [[Karnaugh Mapping]]
 - Basic [[Gates]]

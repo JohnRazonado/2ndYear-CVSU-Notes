@@ -78,7 +78,7 @@ USE STATEMENT:
 ```SQL
 USE database-name;
 ```
-
+>This is to select the database needed to use in the next query.
 
 SHOW STATEMENT:
 ```SQL
@@ -195,7 +195,7 @@ SELECT column1, column2....columnN FROM table_name WHERE CONDITION;
 
 **SQL UPDATE STATEMENT:**
 ```SQL
-UPDATE table_name   SET column1 = value1, column2 = value2……..
+UPDATE table_name SET column1 = value1, column2 = value2……..
 
 INSERT INTO table_name( column1, column2....columnN) VALUES ( value1, value2....valueN);column N=valueN   WHERE  (CONDITION) ;
 ```

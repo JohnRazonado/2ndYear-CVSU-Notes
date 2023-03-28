@@ -39,7 +39,6 @@ Output
 |3008|	Julian Green|	London	|300|	5002|	
 |3003|	Jozy Altidor|	Moscow|	200|	5007|
 
-
 ### ORDER BY
 - A keyword used to sort the result-set in ascending or descending order.
 - Sorts the records in ascending order by default. Use `DESC` keyword to sort it descending order.
