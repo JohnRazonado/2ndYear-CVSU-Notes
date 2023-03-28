@@ -23,7 +23,9 @@
 
 
 ## Sample Papers
-### Computerized Inventory System with EQQ Using Barcode Technology in Property of CvSU-Imus Campus
+> Needed to write their year it was published and more info about it, I guess.
+
+### [[Computerized Inventory System with EQQ Using Barcode Technology in Property of CvSU-Imus Campus]]
 > Uses SDLC (System Development Life Cycle)
 
 #### Methodology
@@ -33,11 +35,11 @@ The project development side uses a **V-model** which is a software development 
 
 Along with that is also having a testing phase with alpha and beta testing present in the project.
 
-### Computerized Sales Transaction System and Inventory System for Heritage Aluminum Sales Corporation
+### [[Computerized Sales Transaction System and Inventory System for Heritage Aluminum Sales Corporation]]
 > By David J. Marquez, Richard B. Ramirez, and Roland Jeremy T. Sasis
 
 
-### Inventory Triggering System with Parcel Status Information for BC-MAN Enterprises
+### [[Inventory Triggering System with Parcel Status Information for BC-MAN Enterprises]]
 > By Daryl G. Cruz, and Jaeziel L. Salazar
 
 The creation of the system utilizes C# as their programming language of choice and Visual Studio being their IDE.
@@ -91,7 +93,7 @@ This also uses interview to gather information from the clients.
 
 This research uses Stratified Random Sampling targeting one 1 admin, 2 sales coordinator, and 33 client of BC-Man enterprise.
 
-### Inventory Management With Cost-Volume Profit (CVP) Analysis and Decision Support System for Liwayway Marketing Corporation
+### [[Inventory Management With Cost-Volume Profit (CVP) Analysis and Decision Support System for Liwayway Marketing Corporation]]
 > By John Paul T. Argama, Clavel F. Dayuta, and Mariline D. Mendoza
 
 ### Methodology
@@ -113,7 +115,7 @@ It uses a descriptive-observational method of design to focused on the prevailin
 
 
 
-### Sales and Inventory Management System for Colegio De Porta Vaga
+### [[Sales and Inventory Management System for Colegio De Porta Vaga]]
 > By Zandra D. Ling, Ian Mary Joy Plasquita, and Elson Torrianna JR.
 
 They uses C# to have a sales and inventory management system for a school named "Colegio De Porta Vaga"
@@ -150,7 +152,6 @@ In their conceptual framework they used the following:
 #### Output
 - Sales and Inventory for Colegio De porta Vaga
 #### Evaluation
-
 
 #### Methodology
 The methodology used here is mostly a  "Spiral Model" by Gurendo, 2015. The gathering of information method was interview from the admins. While giving some questions to the admins determine there system using the additional information.

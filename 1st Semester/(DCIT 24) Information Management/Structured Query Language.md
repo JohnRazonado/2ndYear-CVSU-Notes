@@ -1,4 +1,5 @@
-or **SQL** is a programming language was first developed in the 1970's.
+ 
+ **SQL** is a programming language was first developed in the 1970's.
 - By IBM researchers **Raymond Boyce** and **Donald Chamberlin**.
 - The programming language called "SEQUEL", was published in the book of Edgar Frank Todd's paper "**A Relational Model of Data for Large Shared Data Banks**" in 1970
 ### History
@@ -198,10 +199,12 @@ UPDATE table_name   SET column1 = value1, column2 = value2……..
 
 INSERT INTO table_name( column1, column2....columnN) VALUES ( value1, value2....valueN);column N=valueN   WHERE  (CONDITION) ;
 ```
+
 Example
 ```SQL
-INSERT INTO us_states (name, flower) VALUES ("Alaska", "Forget-me-not");
-INSERT INTO us_states (name) VALUES ("Hawaii");
+UPDATE Customers  
+SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'  
+WHERE CustomerID = 1;
 ```
 
 **SQL INSERT INTO Statement:**
@@ -212,7 +215,11 @@ INSERT INTO table_name( column1, column2....columnN) VALUES ( value1, value2....
 INSERT INTO table_name  VALUES ( value1, value2....valueN);
 ```
 
-
+Example
+```SQL
+INSERT INTO us_states (name, flower) VALUES ("Alaska", "Forget-me-not");
+INSERT INTO us_states (name) VALUES ("Hawaii");
+```
 
 **SQL SELECT Statement:**
 ```SQL
