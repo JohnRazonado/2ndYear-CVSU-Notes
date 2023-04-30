@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"6301bdf84c66a097","x":-580,"y":-430,"width":400,"height":400,"color":"5","type":"file","file":"2nd Year/2nd Semester/(GNED 14) Panitikang Panlipunan/attachments/SILABUS-GNED-14-PANITIKANG-PANLIPUNAN.pdf"},
+		{"id":"e4bcd0c1bb395923","x":-60,"y":-260,"width":250,"height":60,"type":"text","text":"W1:Alitutunin sa klase"}
+	],
+	"edges":[
+		{"id":"ef392692654cfa6b","fromNode":"6301bdf84c66a097","fromSide":"right","toNode":"e4bcd0c1bb395923","toSide":"left"}
+	]
+}
