@@ -1,3 +1,0 @@
-- Typically represented by a unique ID
-- It could be a variable or the machine memory address itself that can't be seen
-- Internally handled by JVM. 

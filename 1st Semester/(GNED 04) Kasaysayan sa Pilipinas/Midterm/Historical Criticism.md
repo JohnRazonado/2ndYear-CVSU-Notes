@@ -1,5 +1,0 @@
-Many documents have primary and secondary segments. For instance, examining a newspaper as a historical source entails a discerning mind to identify its primary and secondary components.
-
-A news item <mark style="background: #FFB8EBA6;">written by a witness of an event</mark> is considered as a **primary source**, while a <mark style="background: #FFB8EBA6;">feature articles</mark> is usually considered as a **secondary material**. Similarly, a book published a long time ago does not necessarily render it as a primary source. It requires a meticulous reading of the document to know its origin.  
-
-To ascertain the authenticity and reliability of primary sources to be used in crafting a narrative, a historian needs to employ two levels of historical criticism and, namely, **external criticism** and **internal criticism.**
