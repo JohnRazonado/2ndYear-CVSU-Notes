@@ -12,7 +12,6 @@
 
 ```mermaid
 %%{ init: { 'flowchart': { 'curve': 'basis' } } }%%
-
 flowchart TD
 
     Panitikan -->Sulat(Pagsusulat)
@@ -21,9 +20,9 @@ flowchart TD
 
     Obserb --> Senses[5 Senses]
 
-    Obserb -->  HW[5W 1H]
+    Obserb --> HW[5W 1H]
 
-    Senses --> |Pandama| Pandama("Paningin fa:fa-eye(Sight) \nPanlasa fa:fa-grin-tongue(Taste) \nPang-amoy fa:fa-nose(Smell)\n Pandinig fa:fa-ear(Hear)")
+    Senses --> |Pandama| dama("Paningin fa:fa-eye(Sight) \nPanlasa fa:fa-grin-tongue(Taste) \nPang-amoy fa:fa-nose(Smell)\n Pandinig fa:fa-ear(Hear)\n Pansalat (Touch)")
 
     Sulat --> LENTE
 
@@ -50,7 +49,7 @@ flowchart TD
 	- "Pakinabang" - Relevance
 - Pagkakaroon ng
 	- Kahalagahan
-	- Parktika
+	- Praktika
 
 #### Istrukturalismo
 

@@ -110,7 +110,7 @@ Number of entity types that participates in it.
 	- both entity in the relationship can have many related entities.
 ##### Cardinality Constraints
 The number of instances of one entity that can or must be associated with each instance of another entity
-- **Maximum Cardinality**
+- **Minimum Cardinality**
 	- if zero, then optional
 	- one or more, then mandatory
 - **Maximum Cardinality**
@@ -158,7 +158,7 @@ The number of instances of one entity that can or must be associated with each i
 - **Avoid intelligent identifiers** (e.g. containing locations or people that might change)
 - Substitute new, simple keys for long, composite keys
 
-#### Business Rules
+#### [[Modeling in the Data Organization#Business Rules|Business Rules]]
 - Are statements that define or constrain some aspect of the business
 - Are derived from policies, procedures, events, functions
 - Assert business structure
@@ -166,13 +166,13 @@ The number of instances of one entity that can or must be associated with each i
 - Are expressed in terms familiar to end users
 - Are automated through DBMS software
 ##### A Good Business Rule Is:
-- Declarative-what, not how
-- Precise-clear, agreed-upon meaning
-- Atomic-one statement
-- Consistent-internally and externally
-- Expressible-structured, natural language
-- Distinct-non-redundant
-- Business-oriented-understood by business people
+- **Declarative** - what, not how
+- **Precise** - clear, agreed-upon meaning
+- **Atomic** - one statement
+- **Consistent** - internally and externally
+- **Expressible** - structured, natural language
+- **Distinct** - non-redundant
+- **Business-oriented** - understood by business people
 
 ## Relational Model
 - Represents the database as a **collection of relations**. 

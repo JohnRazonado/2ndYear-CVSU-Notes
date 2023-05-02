@@ -39,19 +39,23 @@
 #### O (Big Oh) Notation
 - Formal way to express **upper bound** of an algorithm's running time.
 - Measures **worst case** time complexity or the **longest amount of time** an algorithm can possibly take to complete.
-- **O(f(n)) = f(n) <= c.g(n)**
+- **O(f(n)) = f(n) <= c\*g(n)**
+- 
 ![[Pasted image 20230426140746.png]]
 
 #### Ω (Omega) Notation
 - Ω(n) notation is a formal way to express **lower bound** of algorithm running time.
 - Measure the **best case** time complexity or the best amount of time an algorithm can possible take to complete.
-- **Ω(f(n)) = g(n) <= c.f(n)**
+- **Ω(f(n)) = g(n) <= c\*f(n)**
+	- or
+	-  **Ω(f(n)) = f(n) >= c\*g(n)**
 
 ![[Pasted image 20230426143228.png]]
 
 #### Θ (Theta) Notation
 - Θ(n) notation is a formal way to express **both lower bound and upper bound** of an algorithm's running time with **Average case** time complexity.
 - **Θ(f(n)) = O(f(n)) and g(n) = Ω(f(n))**
+	- $\Omega\left( g(n) \right)\leqslant f(n)\leqslant O(g(n))$
 
 ![[Pasted image 20230426143247.png]]
 > Lower Bound <= Running Time <= Upper Bound

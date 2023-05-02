@@ -2,7 +2,7 @@
 ### WHY HAS REQUIREMENT ENGINEERING BECOME SO IMPORTANT?
 1. The pace of product development has picked up drastically.
 2. Turnover and technology change have impacted the experience levels of professionals engaged in the development of products.
-3. Outsourcing and offshoring have dramatically changed the product life cycle. Specifications must now be created for implementation or manufacturing by organizations with potentially limited or no domain expertise.
+	- Outsourcing and offshoring have dramatically changed the product life cycle. Specifications must now be created for implementation or manufacturing by organizations with potentially limited or no domain expertise.
 
 ### Misconceptions about Requirements Engineering
 #### Misconception 1: Any Subject Matter Expert Can Become a Requirements Engineer after a Week or Two of Training
@@ -48,7 +48,6 @@ CMMI – Capability Maturity Model Integration
 - Traceable
 
 ## Chapter 2
-
 ### Requirements Engineering Artifact Modeling
 - “Without goals, and plans to reach them, you are like a ship that  has set sail with no destination.”
 
@@ -65,7 +64,7 @@ CMMI – Capability Maturity Model Integration
 - RE artifact-centered process guidelines that define _completion levels_ of the RE artifact model.
 
 ### Taxonomy
--  is a collection of controlled vocabulary terms organized into a hierarchical structure.
+-  is a <mark style="background: #FFB8EBA6;">collection of controlled vocabulary term</mark>s organized into a <mark style="background: #FFB8EBA6;">hierarchical structure</mark>.
 - The difference between a _glossary_ and a taxonomy is that in a **glossary, terms are listed alphabetically and defined**, whereas in a **taxonomy, terms are grouped into classifications.** To create a glossary, we recommend starting with a taxonomy of RE terms
 
 #### Any taxonomy for requirements engineering work products should, as a minimum, have the following attributes
@@ -76,8 +75,8 @@ CMMI – Capability Maturity Model Integration
 5. **Systematic** - The categories should be well chosen and be at the same level.
 
 #### Steps in creation of Taxonomy
-1. Identify the tooling that will be used and how the taxonomy will be presented.
-2. Collect all the requirement types.
+1. **Identify the tooling** that will be used and how the taxonomy will be presented.
+2. **Collect** all the **requirement types**.
 3. If the project is an incremental development, mine the requirements for classes.
 4. Categorize by grouping and create a draft taxonomy.
 5. Make sure that complete, agreed-upon definitions are  available for every term that will be in the requirements taxonomy, including parent terms.

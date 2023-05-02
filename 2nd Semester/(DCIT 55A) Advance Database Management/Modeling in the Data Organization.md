@@ -71,13 +71,13 @@ An attribute (or combination of attributes) that **uniquely identifies individua
 - Are automated through DBMS software
 
 ### A Good Business Rule Is:
-- Declarative-what, not how
-- Precise-clear, agreed-upon meaning
-- Atomic-one statement
-- Consistent-internally and externally
-- Expressible-structured, natural language
-- Distinct-non-redundant
-- Business-oriented-understood by business people
+- **Declarative** - what, not how
+- **Precise** - clear, agreed-upon meaning
+- **Atomic** - one statement
+- **Consistent** - internally and externally
+- **Expressible** - structured, natural language
+- **Distinct** - non-redundant
+- **Business-oriented** - understood by business people
 
 ## ERD Samples
 ### Business Rules

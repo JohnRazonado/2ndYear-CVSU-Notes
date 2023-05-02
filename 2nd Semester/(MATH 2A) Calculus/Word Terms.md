@@ -39,6 +39,9 @@
 - If the values of a function 𝑓(𝑥) approach a value 𝐿 as 𝑥 approaches 𝑐 from the left, we say that 𝐿 is the left-hand limit of 𝑓(𝑥) as 𝑥 approaches 𝑐, and write ![[Pasted image 20230425001921.png]]
 - If the values of a function 𝑓(𝑥) approach a value 𝑅 as 𝑥 approaches 𝑐 from the right, we say that 𝐿 is the right-hand limit of 𝑓(𝑥) as 𝑥 approaches 𝑐, and write ![[Pasted image 20230425001932.png]]
 
+> cum 😳 
+
+%%Sorry for the random easter egg%%
 
 ## CHAPTER 2.3 THEOREMS OF LIMITS
 1. ![[Pasted image 20230425141242.png]]

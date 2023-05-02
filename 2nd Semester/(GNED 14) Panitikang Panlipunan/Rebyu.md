@@ -10,6 +10,7 @@
 - Kanon
 - Modernong Panitikan
 - Klasiko
+- Pagkilala Bilang Panitikang Pambansa
 
 #### Soledad, Reyes
 ##### Pormalismo
@@ -17,14 +18,55 @@
 - Pagkakaroon
 	- Kahalagahan
 	- Praktika
+
 ##### Istrukturalismo
+Pinapakita sa paglalapat ng konklusyon sa Istrukturalismo kung saan ang tekstong sinusuri ay tunay na hindi nabase sa kaanyuang gusto ng may akda, sa kaysayan, o sa mambabasa. Nakabase ito sa "sisteme ng wika" na nagpapakahulugan sa akda upang masuri kung ano lamang ang hindi nababago, ang mismong teksto. Sa Istrukturalismo, isang bahagi lang ang may akda at mambabasa.
+
+**Postistrukturalistang Pananaw**
+Namayani ito sa Europa at Estados Unidos bilang **dekonstruksisyon**
+
+Nagamit ang postistrukturalismo sa paraan ni Isagani Cruz sa pagsiyasat sa mga naganap na People power sa bansa kung saan sinabi niyang "putol-putol" ang mga naganap at naging makabuluhan ang paggamit ng pananaw na ito at maaring magamit pa ito higit sa diskursong ito.
 
 ##### Marxismo
+Nakilala ito kay Karl Marx at Friedrich Engels, mga Aleman na pilosopo/ekonomista.
+
+Kilala ito sa bansa at marahil si Epifanio San Juan Jr. ang pinakamaimpluwensiyal na taong nagamit nito sa Pilipinas.
+
+ay ipakita na ang tao o sumasagisag sa tao ay may sariling kakayahan na “umangat buhay” sa pagdurusang dulot ng pangekonomiyang kahirapan at suliraning panlipunan at pampulitika. Ang mga paraan ng pag-ahon mula sa kalugmukan sa akda ay nagsisilbing modelo para sa mga mambabasa. Specified na ekonomiyang kahirapan, at pulitika.
+
+Ang Marxismong pananaw ay nakaugat sa pangkabuhayang ugnayan (base) sa "superstructure" na anyong-panlipunan. Binubuo ang superstructure ng batas, relihiyon, pilosopiya, sining, panitikan. Na ang pinakamahala ay ang dahilan (cause) sa pagbabagong naganap sa pangkabuhayan o ekonomiko.
+
 
 
 ##### Feminismo
+Sa tagal ng panahon, ay hindi kinikilala ang mga akda ng kababaihan, kahit sa mga unibersidad, dahil sa pamamayani ng patriyarkal na tradisyon.
+
+At sa taon ng bandang 1980-1990 ay kinilala na ang mga akda ng kababaihan sa US at UK.
+
+
+Pagpapakilala ng **Phallic Criticism**, pagtalakay ng isang lalaking kritiko sa akda ng isang babaeng manunulat na punong-puno ng imaheng sekswal.
+
+
+###### Sa Akda ni Elaine Showalter na "Literature of Their Own", may tatlong phase ito:
+- **Feminine Phase** - 1840-1880
+	- Pananatiling mahinhin at mabining katangian ng manunulat na babae
+- **Feministang Phase** - 1880 - 1920
+	- Mataos na protesta laban sa mga pagpapahalagang pangkalalakihan
+	- Kabilang rito ang mga feminista na sina Elizabeth Robins at Olive Schriener
+- **Female Phase** - 1920 - Kasalukuyan
+	- Pagpapaunlad ng ideya ng ispesipikong sulatin at karanasang pangkababaihan.
+> Tinatawag na **gynocritics** ni Showalter
+> 	- Pinakilala nito ang pananaw ng kababaihas sa paksa ng kasaysayan, estilo, tema, anyo, at istruktura ng pagsulat
+
 
 #### Pagtuturo ng Panitikang Pilipino
+Maraming tanong ang may takda kung paano haharapin ng isang guro ang pagtuturo ng panitikan sa Pilipinas. Paano:
+- Maituturo lahat ng panitikan sa bansa sa isang semestre?
+- maipapaliwanag ang ugnayang-pampanitikan sa kasaysayan?
+- matutumbok ang tinatahak ng ating panitikan?
+
+Kasama na rito ang lawak ng materyal na gagmitin. Gaano karami ang gagamitin? Gaano kalalim ang pagtalakay?Anong detalye ng talambuhay ng may akda ang isasali? Gaano kalawak ang pagtalakay sa tradisyon at kumbensyon?
+
 
 #### Torres-Yu at Tolentino - Pagbabalangkas
 - Awtline
@@ -40,7 +82,7 @@
 - Semiotika
 	- Linguistic signos
 	- Visual signos
-
+>https://www.studocu.com/ph/document/cavite-state-university/panitikang-panlipunansosyedad-at-literatura/gned-14-panitikang-panlipunan-sosyedad-at-literatura-mid-term-examination-reviewer/39752419
 
 ### Proseso ng Pagbabasa
 #### Skimming
