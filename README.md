@@ -1,14 +1,14 @@
-# About Notes
 This notes are all focused on skimming and reiterating different subjects but some of it is super concise enough even at the PowerPoint slide.
 
-## Using the Notebook
-### Downloading using Releases
+# Using the Notebook - (PLEASE READ)
+## Downloading using Releases
 - Go to the releases section
 - Click the latest release version
-- Download "2ndYear-Obsidian.zip" only
+- Download "**2ndYear-Obsidian.zip**" only
 ![Notes-Within-Notes](README-resources/Release.gif)
 > Don't download the source code since it contains the README assets and other attachments not needed to the notes.
 
+### Extract
 - Finally, **Extract** the directory
 ![Notes-Within-Notes](README-resources/Extract.gif)
 >Use the "Extract All" option rather than "Extract Here".
