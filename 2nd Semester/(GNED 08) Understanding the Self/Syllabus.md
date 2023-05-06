@@ -1,8 +1,3 @@
-> Need to sort out later on. This is for Understanding the self review notes laid out in syllabic form.
-> This need to be edited later on but the exam will be a take home I guess according to the chat of our professor, still it needs some readings and dug ins. 
-
-#inProgress 
-
 ## [[Lesson 1 - Perspective of Philosophy|Perspective of Philosophy]]
 - Thinkers for centuries have searched for explanation and reasons for everything that exist around him.
 - Athens of Ancient Greece
@@ -61,9 +56,9 @@
 #### Plato's Metaphysics: Theory of Forms
 - Forms are what are real.
 - Plato's forms have the following characteristics
-	1. The Forms are ageless and therefore eternal.
-	2. The Forms are unchanging and therefore permanent.
-	3. The Forms are unmoving and indivisible.
+	1. The Forms are **ageless** and therefore eternal.
+	2. The Forms are **unchanging** and therefore permanent.
+	3. The Forms are **unmoving** and indivisible.
 
 - This is also inclined with Plato's two realms, Plato's Dualism:
 	1. **The Realm of the** **Shadows** is composed of changing, ‘sensible’ things which are lesser entities and therefore imperfect and flawed.
@@ -140,8 +135,8 @@ He explains:
 ### John Locke
 - Locke believed that **knowledge results** from ideas produced a _posteriori_ or by objects that were experienced. 
 - Locke contended that ideas are not innate but rather the mind at birth is a _‘tabula rasa’_.
-- “nothing exists in the mind that was **not first in the senses.**”_ What the senses have experienced are simple ideas which are the raw materials from which knowledge begins. 
-- Mental acts, for instance are acts that produce the ‘greatest possible good’ but contended that knowing what is good does not necessarily mean that people will always do what is good. Morality has to do with choosing or willing the good.
+- “nothing exists in the mind that was **not first in the senses.**” What the senses have experienced are simple ideas which are the raw materials from which knowledge begins. 
+- **Mental acts**, for instance are acts that produce the ‘greatest possible good’ but contended that knowing what is good does not necessarily mean that people will always do what is good. Morality has to do with choosing or willing the good.
 
 Moral good depends of some law, there are three laws:
 1. **Law of opinion** – where actions that are praiseworthy are called virtues and those that are not are called vice.
@@ -193,16 +188,16 @@ The self is nothing else but a bundle of impressions. What is the Self then? Sel
 - *self* is not an entity one can locate and analyse but simply the **convenient name that the people use to refer to all the behaviours** that people make.
 
 #### Two types of Knowledge
-- Knowing-that
-	-  knowing facts/information
+- **Knowing-that**
+	- knowing facts/information
 	- knowing that’ is considered as empty intellectualism.
-- Knowing-how
+- **Knowing-how**
 	- using facts in the performance of some skill or technical abilities
-	-  important is how to make use of these facts. A person may acquire a great bulk of knowledge – but without the ability to use it to solve some practical problems to make his life easier
+	- important is how to make use of these facts. A person may acquire a great bulk of knowledge – but without the ability to use it to solve some practical problems to make his life easier
 
 ### Patricia and Paul Churchland
 - inquiry looks into the application of neurology to age-old problems in philosophy, **mind-body problem**
-	-  known as _neurophilosophy_.
+	-  known as **_neurophilosophy_**.
 - man’s brain is responsible for the identity known as the self
 - It seems that what and who the person is – how he makes decisions, control impulses and how he sees himself is largely determined by his neurons, hormones and overall genetic make-up.
 
@@ -250,6 +245,7 @@ Social constructionists argue for a merged view of “the person” and their �
 - **Social Behaviorism** - approached used to describe the power of the environment in shaping human behaviour.
 	- Described the self as a _‘dimension of personality that is made-up of the individual’s self-awareness and self-image’_ (Macionis, 2012).
 - Mead explains set of stages which person undergoes course of his development:
+  
 |STAGES|EXISTENCE OF SELF| CHARACTERISTICS|
 |---|---|---|
 |**Preparatory Stage**| None| Imitates another|
