@@ -1,8 +1,3 @@
-> Need to remove the preliminaries and program design. The new topics that needs to review are:
-> - Boolean Algebra
-> - Logic Gates
-
-
 ## [[Boolean Algebra]]
 - Branch of algebra dealing with two value:
 	- 1 and 0
@@ -13,7 +8,7 @@
 - Name in honor of English Mathematician **George Boole**,
 	- Proposed basic principle in **1854** in his treatise
 	- **An Investigation of the Laws of Thought on Which to Found the Mathematical Theories of Logic and Probabilities.**
-- First utilized by Claude Shannon in 1938
+- First utilized by **Claude Shannon in 1938**
 	- In 1938, Claude Shannon, a research assistant in the Electrical Engineering Department at M.I.T., suggested that Boolean algebra could be used to solve problems in relay-switching circuit design.
 - Convenient in two areas
 	- **Analysis** - economical way of describing function of digital circuitry.
@@ -115,18 +110,61 @@
 	- Add one to the complemented number
 - The carry in the most significant bit position is thrown away when performing arithmetic
 
-
-
 ## [[Logic Gates#Gates|Gates]]
 - A gate is a basic building block that performs a specific logical operation on one or more binary inputs to produce a binary output.
 - Logical functions are implemented by the interconnection of gates.
 - A gate is an electronic circuit that produces an output signal that is a simple Boolean operation on its input signals.
 - Gates are used to construct more complex digital circuits, such as adders, multiplexers, and memory units.
 
+> All of the gates except NOT can have more than two inputs.
+
+### Basic Gates
+Used in digital logic are AND, OR, NOT, NAND, NOR, and XOR.
+- **AND** gate: Produces a **high output** only when **all inputs are high**.
+- **OR** gate: Produces a **high output** when **any input is high**.
+- **NOT** gate: Produces the **logical complement** of its input.
+- **XOR** gate: Produces a **high output** when the *number of high* inputs is **odd**.
+- NAND gate: Produces a **low output** only when *all inputs* are **high**.
+- **NOR** gate: Produces a **low output** when **any input is high**.
+
+The IEEE Std 91 (IEEE Std 91-1984)
+![[Pasted image 20230428011154.png]]
+
+### Functionally Complete Sets of Gates
+- set of logic gates that can be used to implement any possible Boolean function.
+- any logical operation, no matter how complex, can be expressed using only the gates from the set.
+- The following set of gates
+	- **AND**, **OR**, **NOT**
+	- **AND**, **NOT**
+	- **OR**, **NOT**
+	- **NAND**
+	- **NOR**
+
+### Universal Gates
+- Made up of the **NAND** and **NOR** gates
+- **NAND** and **NOR** gates can be used to implement all other gates, including AND, OR, NOT, and XOR.
+
+#### Samples
+- A **NOT** gate can be implemented using a **NAND** gate, where the input and output are connected to the same terminal. To implement a NOT gate using a NOR gate, the input is connected to both inputs of the NOR gate.
+- An AND gate can be implemented using a combination of NAND gates, by connecting two inputs to a NAND gate and then applying the output to another NAND gate.
+- An **OR** gate can be implemented using a **combination of NOR gates**, by connecting two inputs to a NOR gate and then applying the output to another NOR gate.
+- An **XOR** gate can be implemented using a **combination of NAND and NOR gates**.
+
+
+For this reason, digital circuits can be, and frequently are, implemented solely with NAND gates or solely with NOR gates.
+![[Pasted image 20230428154308.png]]
+
+![[Pasted image 20230428154354.png]]
+#### NAND-based implementation of an OR gate:
+To implement an OR gate using NAND gates, we can connect the inputs to two separate NAND gates and then connect the outputs of those two NAND gates to a third NAND gate. The final output of the third NAND gate is the output of the OR gate.
+
+
+#### NOR-based implementation of an AND gate:
+To implement an AND gate using NOR gates, we can connect the inputs to two separate NOR gates and then connect the outputs of those two NOR gates to a third NOR gate. The final output of the third NOR gate is the output of the AND gate.
+
 ---
 > Beyond this line are outlines that isn't scoped by the midterm examination
 ---
-
 
 ## [[Preliminaries - Architecture and Organization|Architecture and Organization]]
 Way of computer systems designed and how its component works to perform tasks and instructions.

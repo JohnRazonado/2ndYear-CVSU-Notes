@@ -77,12 +77,12 @@ CMMI – Capability Maturity Model Integration
 #### Steps in creation of Taxonomy
 1. **Identify the tooling** that will be used and how the taxonomy will be presented.
 2. **Collect** all the **requirement types**.
-3. If the project is an incremental development, mine the requirements for classes.
-4. Categorize by grouping and create a draft taxonomy.
-5. Make sure that complete, agreed-upon definitions are  available for every term that will be in the requirements taxonomy, including parent terms.
-6. Create a draft taxonomy
-7. Revise and publish (usually to the web)
-8. Provide feedback and maintenance mechanism  for keeping the taxonomy up to-date.
+3. If the project is an **incremental development**, **mine the requirements for classes**.
+4. Categorize by **grouping** and create a **draft taxonomy**.
+5. Make sure that **complete, agreed-upon definitions** are  available for every term that will be in the requirements taxonomy, including parent terms.
+6. Create a **draft taxonomy**
+7. **Revise and publish** (usually to the web)
+8. **Provide feedback and maintenance mechanism** for keeping the taxonomy up to-date.
 
 ### Elements of an Artifact Model
 ![[Pasted image 20230426162818.png]]
@@ -112,13 +112,13 @@ In small company creating a software product, the following are artifacts must h
 - Customer requirements
 - Product design
 
-The artifact model that is created prior to the start of a project is like looking at the X-ray of a patient prior to starting surgery.
+The artifact model that is created prior to the start of a project is like **looking at the X-ray of a patient** prior to starting surgery.
 
 ### Eliciting Requirement
  _“The hardest single part of building a system is deciding what to build... No other part of the work so cripples the resulting system if done wrong. No other part is more difficult to rectify later.”_  -  Dr. Fredrick P. Brooks, Jr.
 
 ### Requirements Elicitation
-- is the process of discovering the requirements for a system by communication with customers, system users and others who have a stake in the system development.
+- is the process of **discovering the requirements for a system** by **communication with customers, system users and others who have a stake**(stakeholders) in the system development.
 - process of identifying the needs and bridging the disparities among involved communities for the purpose of defining and distilling requirements to meet the needs of an organization or project while staying within imposed constraints.
 
 **Issues and Problems in Requirements Elicitation**
@@ -128,8 +128,6 @@ The artifact model that is created prior to the start of a project is like looki
 
 ### Requirements Elicitation Methods
 ![[Pasted image 20230426164846.png]]
-**![](file:///C:/Users/SchoolWorks/AppData/Local/Packages/oice_16_974fa576_32c1d314_29ca/AC/Temp/msohtmlclip1/01/clip_image003.jpg)**
-
 ## Chapter 3
 
  _“The hardest single part of building a system is deciding what to build... No other part of the work so cripples the resulting system if done wrong. No other part is more difficult to rectify later.”_    - Dr. Fredrick P. Brooks, Jr.
@@ -161,8 +159,6 @@ The artifact model that is created prior to the start of a project is like looki
 ### Requirements Elicitation Methods
 ![[Pasted image 20230426165407.png]]
 
-![](file:///C:/Users/SchoolWorks/AppData/Local/Packages/oice_16_974fa576_32c1d314_29ca/AC/Temp/msohtmlclip1/01/clip_image005.png)
-
 **Goal modeling** is a nice way to crystallize ideas, to present corporate goals in a simple-to-understand and unambiguous way, and to identify and balance difficult choices.
 
 **Goal models** can be as simple or as complex as necessary.
@@ -175,7 +171,8 @@ A sample business policy, rules, and some derived requirements are shown here:
 
 - **Requirement** A facility shall be provided with the system such that the hospital check-in process for adults and children can be changed by hospital administrators without the need for system or software modifications.
 
-Note in the preceding example, the hospital may, at any time, change the age at which a patient is considered a child, as well as the rules governing the emergency check-in of a child without parental consent. The relationships among business policies, rules, and requirements are illustrated in Figure
+Note in the preceding example, the hospital may, at any time, <mark style="background: #ADCCFFA6;">change the age at which a patient is considered a child</mark>, as well as the rules governing the emergency check-in of a child without parental consent. The relationships among business policies, rules, and requirements are illustrated in Figure
+![[Pasted image 20230503213319.png]]
 
 ##### Ethnographic Techniques
 - Ethnographic research tends to focus on a particular community or culture. Typical collection methods are interviews and surveys.

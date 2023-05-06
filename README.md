@@ -1,5 +1,4 @@
 This notes are all focused on skimming and reiterating different subjects but some of it is super concise enough even at the PowerPoint slide.
-
 # Using the Notebook - (PLEASE READ)
 ## Downloading using Releases
 - Go to the releases section

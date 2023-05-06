@@ -28,7 +28,7 @@ Namayani ito sa Europa at Estados Unidos bilang **dekonstruksisyon**
 Nagamit ang postistrukturalismo sa paraan ni Isagani Cruz sa pagsiyasat sa mga naganap na People power sa bansa kung saan sinabi niyang "putol-putol" ang mga naganap at naging makabuluhan ang paggamit ng pananaw na ito at maaring magamit pa ito higit sa diskursong ito.
 
 ##### Marxismo
-Nakilala ito kay Karl Marx at Friedrich Engels, mga Aleman na pilosopo/ekonomista.
+Nakilala ito kay Karl Marx at Friedrich Engels, mga Aleman na.
 
 Kilala ito sa bansa at marahil si Epifanio San Juan Jr. ang pinakamaimpluwensiyal na taong nagamit nito sa Pilipinas.
 

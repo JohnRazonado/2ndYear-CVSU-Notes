@@ -1,4 +1,4 @@
-## Asymptotic Analysis
+ ## Asymptotic Analysis
 - An algorithm refers to **defining the mathematical boundation/framing of its run-time performance.**
 - We can very well **conclude best case, average case, and worst case scenario of an algorithm.**
 - Refers to **computing the running time of any operation** in mathematical units of computation.
@@ -74,10 +74,10 @@
 
 ### Complexity of Sorting Techniques
 #### Example
-- Linear Search Complexity
-	- Best case: Item found at beginning: **One comparison**
-	- Worst case: Item found at the end: **n comparisons**
-	- Average case: Item may be found at index 0, or 1, or 2,... or n-1
+- **Linear Search Complexity**
+	- **Best case:** Item found at **beginning**: **One comparison**
+	- **Worst case:** Item found at the **end**: **n comparisons**
+	- **Average case:** Item may be found at index 0, or 1, or 2,... or n-1
 		- Average number of comparisons is: (1 + 2 + ... + n)/n = (n+1)/2
 
 #### Worst and Average complexities of sorting algorithms

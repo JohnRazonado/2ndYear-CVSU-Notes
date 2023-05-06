@@ -137,16 +137,16 @@ The number of instances of one entity that can or must be associated with each i
 - Indicate relationships with other attributes
 ##### Classifications of Attributes
 - **Required versus Optional Attributes**
-	- **Required** - Must have a value for every entity (or relationship) instance with which it is associated
-	- **Optional** - May not have a value for every entity (or relationship)
+	- **Required** - <mark style="background: #ADCCFFA6;">Must have a value</mark> for every entity (or relationship) instance with which it is associated
+	- **Optional** - <mark style="background: #ADCCFFA6;">May not have a value</mark> for every entity (or relationship)
 - **Simple versus Composite Attribute**
-	- **Composite attribute** - An attribute that has meaningful component parts (attributes)
+	- **Composite attribute** - An attribute that has <mark style="background: #ADCCFFA6;">meaningful component parts</mark> (attributes)
 - **Single-Valued versus Multivalued Attribute**
-	- **Multivalued** - may take on more than one value for a given entity (or relationship) instance
+	- **Multivalued** - may take on <mark style="background: #ADCCFFA6;">more than one value</mark> for a given entity (or relationship) instance
 - **Stored versus Derived Attributes**
-	- **Derived** - values can be calculated from related attribute value (not physically stored in the database).
+	- **Derived** - values can be <mark style="background: #ADCCFFA6;">calculated from related attribute</mark> value (not physically stored in the database).
 - **Identifier Attributes**
-	- An attribute (or combination of attributes) that **uniquely identifies individual instances** of an entity type.
+	- An attribute (or combination of attributes) that **<mark style="background: #ADCCFFA6; font-weight: bold;">uniquely identifies individual instances</mark>** of an entity type.
 #### [[Identifier]]
  An attribute (or combination of attributes) that uniquely identifies individual instances of an entity type.
 - [[Attributes#Simple vs. Composite Attributes|Simple versus Composite Identifier]] 

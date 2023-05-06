@@ -1,7 +1,7 @@
  
  **SQL** is a programming language was first developed in the 1970's.
 - By IBM researchers **Raymond Boyce** and **Donald Chamberlin**.
-- The programming language called "SEQUEL", was published in the book of Edgar Frank Todd's paper "**A Relational Model of Data for Large Shared Data Banks**" in 1970
+- The programming language called "SEQUEL", was published in the book of Edgar Frank Codd's paper "**A Relational Model of Data for Large Shared Data Banks**" in 1970
 ### History
 - **1970** - Dr. E. F. "Ted" of IBM is known as the father of relational databases. He described a relational model for databases.
 - **1974** - Structured Query Language appeared

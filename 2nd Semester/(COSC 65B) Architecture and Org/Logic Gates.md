@@ -37,15 +37,13 @@ The symbology used in this table is from the IEEE standard, IEEE Std 91. Note th
 	- OR, NOT
 	- NAND
 	- NOR
-- There are several sets of functionally complete gates, but the most commonly used set is
-made up of the NAND and NOR gates. This is because both NAND and NOR gates can
-be used to implement all other gates, including AND, OR, NOT, and XOR.
+- There are several sets of functionally complete gates, but the most commonly used set is made up of the NAND and NOR gates. This is because both NAND and NOR gates can be used to implement all other gates, including AND, OR, NOT, and XOR.
 
 For example:
 - A NOT gate can be implemented using a NAND gate, where the input and output are connected to the same terminal. To implement a NOT gate using a NOR gate, the input is connected to both inputs of the NOR gate.
 - An AND gate can be implemented using a combination of NAND gates, by connecting two inputs to a NAND gate and then applying the output to another NAND gate.
-- An OR gate can be implemented using a combination of NOR gates, by connecting two inputs to a NOR gate and then applying the output to another NOR gate.
-- An XOR gate can be implemented using a combination of NAND and NOR gates.
+- An **OR** gate can be implemented using a **combination of NOR gates**, by connecting two inputs to a NOR gate and then applying the output to another NOR gate.
+- An **XOR** gate can be implemented using a **combination of NAND and NOR gates**.
 
 
 - Figure 11.2 shows how the AND, OR, and NOT functions can be implemented solely with NAND gates, and Figure 11.3 shows the same thing for NOR gates.
