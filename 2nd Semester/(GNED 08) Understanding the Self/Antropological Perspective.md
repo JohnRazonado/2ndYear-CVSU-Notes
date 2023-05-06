@@ -4,16 +4,24 @@ A field of social sciences that focuses on the study of man. This does not perta
 
 This field looks into man’s physical/biological characteristics, his social relationships and the influences of his culture from the dawn of civilization up to the present.
 
+**“What man is now, is a product of his past”**
+
+Everything in anthropology is interconnected and a complete understanding is necessary to achieve the goal of man understanding himself better.
+
+Four subfields of anthropology:
+1. Archaeology  
+2. Linguistics
+3. Biological Anthropology
+4. Cultural Anthropology
+
+… which suggest that human beings are similar and very different at the same time.
+
 ## Archaeology
 Archaeologists’ focus is the past and how it may have contributed to the present ways of how people conduct their daily lives. As a result, what archaeologists have so far discovered are the unique ways in which human beings adapted to changes in their environment in order for them to survive.
 
-Man’s big  brains have allowed them to think and look for ways to prolong their existence. Their thoughts enabled their hands to fashion tools and weapons from the objects they find in their environment. The tools and weapons that proved effective are used repeatedly and when further improved made their life easier.
+Man’s big brains have allowed them to think and look for ways to prolong their existence. Their thoughts enabled their hands to fashion tools and weapons from the objects they find in their environment. The tools and weapons that proved effective are used repeatedly and when further improved made their life easier.
 
 > Nakapokus ito sa past ang kung paano ito nakakaapekto sa kasalukuyan.
-
-Archaeologists’ focus is the past and how it may have contributed to the present ways of how people conduct their daily lives. As a result, what archaeologists have so far discovered are the unique ways in which human beings adapted to changes in their environment in order for them to survive.
-
-Man’s big  brains have allowed them to think and look for ways to prolong their existence. Their thoughts enabled their hands to fashion tools and weapons from the objects they find in their environment. The tools and weapons that proved effective are used repeatedly and when further improved made their life easier.
 
 In this aspect, human beings are similar. The manner, however, that they choose to survive differs. Some men would use power and strength, declare wars, conquer and even try to annihilate races, while others would offer their services, knowledge, resources and even their lives just to ensure that a few deserving human beings would survive. Indeed, people are so similar and yet so different.
 
