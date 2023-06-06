@@ -82,7 +82,7 @@ To which Plato believes that people are intrinsically good but judgements are ma
 - If people get out of the cave and into the light, they'll realize that Forms which is what real knowledge is. 
 - **To know for Plato is to be**
 - In Plato's Symposium, **love** is the way to get out of the cave, moving from imperfect knowledge and ignorance to **state of perfection and true knowledge**
-- **Love** is feeling of feeling that there's lacking, seek for which is lacking. The deeper the thought, the stronger the love.
+- **Love** is the feeling that there's lacking, seek for which is lacking. The deeper the thought, the stronger the love.
 	- Love is way of knowing and realizing truth.
 	- It is the process of seeking higher states of being.
 
@@ -123,7 +123,7 @@ He explains:
 - Introduced *Cartesian method* and invented *analytic geometry* (blame him for our suffering).
 - Asked himself "‘is there anything I can know with certainty?"
 - Which through math, he discovered **human mind has two powers:**
-	1. **Intuition**  or the ability to apprehend direction of certain truths and,
+	1. **Intuition**  or the ability to apprehend direction of certain truths
 	2. **Deduction** or the power to discover what is known by progressing in an orderly way from what is already known. Truths are arrived at using a step by step process.
 - Descartes believed that reasoning could produce absolute truths about nature, existence, morality and God.
 - The truths that can be discovered are a priori.

@@ -1,4 +1,4 @@
-## [[Boolean Algebra]]
+## [[2nd Year/2nd Semester/(COSC 65B) Architecture and Org/Midterm/Boolean Algebra]]
 - Branch of algebra dealing with two value:
 	- 1 and 0
 - Deals with **logic and truth values**.
@@ -41,7 +41,7 @@
 
 ![[Pasted image 20230405145101.png]]
 
-### [[2nd Year/2nd Semester/(COSC 65B) Architecture and Org/Boolean Algebra#Postulate and Rules|Postulates and Rules]]
+### [[2nd Year/2nd Semester/(COSC 65B) Architecture and Org/Midterm/Boolean Algebra#Postulate and Rules|Postulates and Rules]]
 #### Identity law
 - This states that if we OR a variable with 0 or AND a variable with 1, the result is the original variable.
 - ![[Pasted image 20230430205208.png]]

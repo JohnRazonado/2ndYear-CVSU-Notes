@@ -61,6 +61,7 @@
 > Lower Bound <= Running Time <= Upper Bound
 
 ### Common Asymptotic Notations
+
 |Description| Asymptotic Notation|
 |---|---|
 | Constant | O(1)|
@@ -81,6 +82,7 @@
 		- Average number of comparisons is: (1 + 2 + ... + n)/n = (n+1)/2
 
 #### Worst and Average complexities of sorting algorithms
+
 |Method| Worst Case| Average Case| Best Case|
 |---|---|---|---|
 |Selection Sort| n<sup>2</sup>| n<sup>2</sup>| n<sup>2</sup>|

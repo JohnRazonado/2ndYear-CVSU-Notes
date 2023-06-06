@@ -28,11 +28,11 @@ Namayani ito sa Europa at Estados Unidos bilang **dekonstruksisyon**
 Nagamit ang postistrukturalismo sa paraan ni Isagani Cruz sa pagsiyasat sa mga naganap na People power sa bansa kung saan sinabi niyang "putol-putol" ang mga naganap at naging makabuluhan ang paggamit ng pananaw na ito at maaring magamit pa ito higit sa diskursong ito.
 
 ##### Marxismo
-Nakilala ito kay Karl Marx at Friedrich Engels, mga Aleman na.
+Nakilala ito kay <mark style="background: #ADCCFFA6;">Karl Marx</mark> at <mark style="background: #ADCCFFA6;">Friedrich Engels</mark>, mga Aleman na.
 
 Kilala ito sa bansa at marahil si Epifanio San Juan Jr. ang pinakamaimpluwensiyal na taong nagamit nito sa Pilipinas.
 
-ay ipakita na ang tao o sumasagisag sa tao ay may sariling kakayahan na “umangat buhay” sa pagdurusang dulot ng pangekonomiyang kahirapan at suliraning panlipunan at pampulitika. Ang mga paraan ng pag-ahon mula sa kalugmukan sa akda ay nagsisilbing modelo para sa mga mambabasa. Specified na ekonomiyang kahirapan, at pulitika.
+ay ipakita na ang tao o sumasagisag sa tao ay may sariling kakayahan na<mark style="background: #ADCCFFA6;"> “umangat buhay” </mark>sa pagdurusang dulot ng pangekonomiyang kahirapan at suliraning panlipunan at pampulitika. Ang mga paraan ng pag-ahon mula sa kalugmukan sa akda ay nagsisilbing modelo para sa mga mambabasa. Specified na <mark style="background: #FFB8EBA6;">ekonomiyang kahirapan, at pulitika.</mark>
 
 Ang Marxismong pananaw ay nakaugat sa pangkabuhayang ugnayan (base) sa "superstructure" na anyong-panlipunan. Binubuo ang superstructure ng batas, relihiyon, pilosopiya, sining, panitikan. Na ang pinakamahala ay ang dahilan (cause) sa pagbabagong naganap sa pangkabuhayan o ekonomiko.
 
@@ -43,9 +43,7 @@ Sa tagal ng panahon, ay hindi kinikilala ang mga akda ng kababaihan, kahit sa mg
 
 At sa taon ng bandang 1980-1990 ay kinilala na ang mga akda ng kababaihan sa US at UK.
 
-
 Pagpapakilala ng **Phallic Criticism**, pagtalakay ng isang lalaking kritiko sa akda ng isang babaeng manunulat na punong-puno ng imaheng sekswal.
-
 
 ###### Sa Akda ni Elaine Showalter na "Literature of Their Own", may tatlong phase ito:
 - **Feminine Phase** - 1840-1880
@@ -59,7 +57,8 @@ Pagpapakilala ng **Phallic Criticism**, pagtalakay ng isang lalaking kritiko sa 
 > 	- Pinakilala nito ang pananaw ng kababaihas sa paksa ng kasaysayan, estilo, tema, anyo, at istruktura ng pagsulat
 
 
-#### Pagtuturo ng Panitikang Pilipino
+
+#### Soledad Reyes - Pagtuturo ng Panitikang Pilipino
 Maraming tanong ang may takda kung paano haharapin ng isang guro ang pagtuturo ng panitikan sa Pilipinas. Paano:
 - Maituturo lahat ng panitikan sa bansa sa isang semestre?
 - maipapaliwanag ang ugnayang-pampanitikan sa kasaysayan?
@@ -74,7 +73,17 @@ Kasama na rito ang lawak ng materyal na gagmitin. Gaano karami ang gagamitin? Ga
 	- Eksperimentalidad
 	- Sektoral
 	- Rehiyunal
-- Bunga ang panitikan base sa:
+- 1. Pagdadalumat ng Pambansang panitikan
+		- Tinutukoy nito antolohiya at kasaysayan kasama narin ang limitasyon nito.
+1. Saklaw at bisa ng una(dalumat na konsepto)
+	- batay sa ugnayan ng Rehiyonal at Panitikang Sektoral.
+	- Pag-igit ng isang Panitikan na "bukas" at mahuhukay ang demokratiko't may ganap na kasarinlan.
+- Bunga ang panitikan base sa: (Sektoral na panitikan)
+	- Uri
+	- Lahi at etnisidad
+	- Henerasyon
+	- Relihiyon
+	
 
 #### San Juan - Semiotika
 - Akda sa Isang salita
@@ -164,6 +173,7 @@ Parte ng panitikang Pilipino ang Panitikan.
 - Climax -> resolusyon
 
 ### Matrix
+
 | | |
 |---|---|
 |Tauhan|Tagpuan|

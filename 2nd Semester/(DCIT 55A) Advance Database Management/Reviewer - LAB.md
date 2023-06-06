@@ -42,9 +42,7 @@ CREATE TABLE table_name(
 );
 ```
 
-
-
-#### ALTER
+#### [[Structured Query Language#^57592b|ALTER]]
 - Modify existing database and other objects like table
 
 ```SQL
@@ -52,8 +50,6 @@ ALTER TABLE table_name {ADD|DROP|MODIFY} column_name {data_type};
 
 ALTER TABLE table_name RENAME TO new_table_name
 ```
-
-
 
 #### DROP
 - Deletes table, view of table, database, or other objects in the database
@@ -67,7 +63,6 @@ DROP TABLE table_name;
 ### [[Structured Query Language#DML - Data Manipulation Language|DML - Data Manipulation Language]]
 #### INSERT
 - Creates a record
-
 ```SQL
 INSERT INTO table_name( column1, column2....columnN) VALUES ( value1, value2....valueN);
 
@@ -86,7 +81,6 @@ VALUES
 
 #### UPDATE
 - Modifies a record
-
 ```SQL
 UPDATE table_name   SET column1 = value1, column2 = value2……..
      column N=valueN   WHERE  (CONDITION);
@@ -94,7 +88,6 @@ UPDATE table_name   SET column1 = value1, column2 = value2……..
 
 #### DELETE
 - Deletes records
-
 ```SQL
 DELETE FROM table_name  WHERE (CONDITION);
 ```
@@ -102,7 +95,6 @@ DELETE FROM table_name  WHERE (CONDITION);
 ### [[Structured Query Language#DCL – Data Control Language|DCL - Data Control Language]]
 #### [GRANT](https://mariadb.com/kb/en/grant/)
 - Give privilege to user
-
 ```SQL
 GRANT
     _priv_type_ [(_column_list_)]
@@ -113,7 +105,6 @@ GRANT
 
 #### [REVOKE](https://mariadb.com/kb/en/revoke/)
 - Takes back privileges granted from user
-
 ```SQL
 REVOKE ALL PRIVILEGES, GRANT OPTION
     FROM user [, user] ...
@@ -122,7 +113,6 @@ REVOKE ALL PRIVILEGES, GRANT OPTION
 ### [[Structured Query Language#DQL - Data Query Language|DQL - Data Query Language]]
 #### [[Other SQL Functions#SELECT functions|SELECT]]
 - Retrieves certain record from tables.
-
 ```SQL
 SELECT column1, column2....columnN   FROM table_name;
 
@@ -130,7 +120,6 @@ SELECT * FROM table_name
 ```
 
 ##### WHERE
-
 ```SQL
 SELECT column1, column2....columnN FROM table_name WHERE CONDITION;
 

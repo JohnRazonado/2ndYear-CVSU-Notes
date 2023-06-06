@@ -134,13 +134,42 @@ RENAME TABLE activity4_razonado TO activity3_razonado;
 > Renaming database isn't as direct as it should be according to [stackoverflow](https://stackoverflow.com/questions/67093/how-do-i-rename-a-mysql-database-change-schema-name)
 
 
-**ALTER TABLE STATEMENT:**
+**ALTER TABLE STATEMENT:** ^57592b
 ```SQL
 ALTER TABLE table_name {ADD|DROP|MODIFY} column_name {data_type};
 ```
 ```SQL
 ALTER TABLE table_name RENAME TO new_table_name
 ```
+
+Alter to modify column data type
+```SQL
+ALTER TABLE table_name  
+MODIFY COLUMN column_name datatype;
+```
+Alter rename column
+```SQL
+ALTER TABLE table_name
+RENAME COLUMN old_name to new_name;
+```
+Alter add|drop column
+```SQL
+ALTER TABLE table_name
+DROP COLUMN column_name;
+
+ALTER TABLE table_name
+ADD column_name datatype;
+```
+
+**ALTER Database**
+```SQL
+ALTER {DATABASE | SCHEMA} [db_name]
+    alter_specification ...
+    
+ALTER {DATABASE | SCHEMA} db_name
+    UPGRADE DATA DIRECTORY NAME
+```
+>Enables you to change the overall characteristics of a database. These characteristics are stored in the `db.opt` file in the database directory. To use `ALTER DATABASE`, you need the `ALTER` privilege on the database. `ALTER SCHEMA` is a synonym for ALTER DATABASE.
 
 **DELETE STATEMENT:**
 ```SQL
