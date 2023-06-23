@@ -1,8 +1,7 @@
 ## Introduction
-**Combinational circuits** are a type of logic circuit where the output at any
-given time is solely determined by the current input values.
+**Combinational circuits** are a type of logic circuit where the output at any given time is solely determined by the current input values.
 
-- It is an i<mark style="background: #ADCCFFA6;">nterconnected set of gates whose output at any time is a function only of the input at that time</mark>.
+- It is an <mark style="background: #ADCCFFA6;">interconnected set of gates whose output at any time is a function only of the input at that time</mark>.
 	- As with a single gate, the appearance of the input is followed almost immediately by the appearance of the output, with only gate delays.
 - These circuits don't have any memory or feedback, meaning that the output is purely a function of the inputs at that instant, and there are no internal state elements that retain information.
 - Built using logic gates, such as AND gates, OR gates, NOT gates, and others. These gates take one or more input signals and produce an output signal based on their defined logic function.
@@ -13,8 +12,7 @@ given time is solely determined by the current input values.
 
 
 ### Core Meaning of Combinational Circuit
-In general terms, a combinational circuit consists of ***n*** binary inputs and ***m***
-binary outputs. As with a gate, a combinational circuit can be defined in
+In general terms, a combinational circuit consists of ***n*** binary inputs and ***m*** binary outputs. As with a gate, a combinational circuit can be defined in
 three ways:
 - **Truth table:** For each of the $2^n$ possible combinations of input signals, the binary value of each of the *m* output signals is listed.
 - **Graphical symbols:** The interconnected layout of gates is depicted.
@@ -25,10 +23,8 @@ three ways:
 	- These methods help in determining the logic expressions and selecting appropriate gate combinations to achieve the desired functionality.
 
 ## Implementation of Boolean Functions
-Any Boolean function can be implemented in electronic form as a network of
-gates. For any given function, there are a number of alternative realizations.
-Consider the Boolean function represented by the truth table in Table 11.3. We
-can express this function by simply itemizing the combinations of values of A, B,
+Any Boolean function can be implemented in electronic form as a network of gates. For any given function, there are a number of alternative realizations.
+Consider the Boolean function represented by the truth table in Table 11.3. We can express this function by simply itemizing the combinations of values of A, B,
 and C that cause F to be 1:
 ![[Pasted image 20230518233328.png]]
 
@@ -52,8 +48,7 @@ Thus,
 ![[Pasted image 20230518233613.png]]
 
 This is in the <mark style="background: #ADCCFFA6;"><b>product of sums (POS)</b> form, which is illustrated in Figure 11.5</mark>. For clarity, NOT gates are not shown.
-Rather, it is assumed that each input signal and its complement are available.
-This simplifies the logic diagram and makes the inputs to the gates more readily apparent.
+Rather, it is assumed that each input signal and its complement are available. This simplifies the logic diagram and makes the inputs to the gates more readily apparent.
 
 Thus, a Boolean function can be realized in either SOP or POS form. At this point, it would seem that the choice would depend on whether the truth table contains more 1s or 0s for the output function:
 

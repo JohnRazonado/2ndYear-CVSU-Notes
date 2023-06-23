@@ -34,6 +34,7 @@ SELECT * FROM customer WHERE cust_name LIKE 'J%';
 ```
 
 Output
+
 |customer_id|	cust_name|	city|	grade|	salesman_id|	
 |---|---|---|---|---|
 |3008|	Julian Green|	London	|300|	5002|	

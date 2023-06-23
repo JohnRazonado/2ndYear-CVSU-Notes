@@ -2,7 +2,7 @@
 
 **Diaspora** - 
 ## Ang Wili sa Wowowee at ang Diasporang Filipino
-### Awtor: Louie Jon A. Sanchez
+### Awtor: [[Tungkol sa Awtor|Louie Jon A. Sanchez]]
 **Pinanganak** - October 29, 1980 (age 42) sa Maynila, Philippines
 **Trabaho** - Poet, Journalist, Critic, Teacher
 Sa buong kabataan niya ay nag-aral siya sa mga katolikong paaralan.

@@ -1,14 +1,6 @@
 > Ulat ng Ika-unang Grupo
 
 #inProgress 
-> Mga Kailangang gawin
-> - [x] Mabasa ng pahapyaw ang mismong akda (dahil masyadong mahaba)
-> - [x] Alamin kung kadugtong ba ng Ikatlong yugto ang "Produksyon ng kaalaman sa Araling Kababaihan"
-> - [x] Mas lalong mahimay ang mga naganap sa "Ang kilusang LGBT"
-> - [x] Alamin ang mga sagot sa "Sipol at Sigaw" ni Pol Turla
-> - [x] Basahin ang tula na "Sipol at Sigaw"
-> - [x] Malaman ang mga sagot sa kanilang bidyo ukol sa mga tanong sa "Sipol at Sigaw"
-
 ## Akda: ANG ARALING KABABAIHAN AT KASARIAN SA ARALING PILIPINO AT WIKANG FILIPINO: KALAGAYAN AT HINAHARAP
 ni Nancy Kimuell-Gabriel, Ph.D.
 
@@ -30,6 +22,8 @@ ni Nancy Kimuell-Gabriel, Ph.D.
 - Mga akdang inilimbag ng MAKABAKA at patungkol sa pagsali ng membro ng makibaka sa batas militar Inilimbag nila ang Women and Revolution: Selected Readings on Women's Liberation. "Ang Kababaihan at Pambansang Demokrasya ni Rosario Malay, at "The Concept of Liberated Filipino Women and Her Role in the National Democratic Struggle" ni Mila Astorga Garcia.
 
 ### Ikatlong Yugto: Pagsulong ng mga kilusang kababaihan, paglakas ng kasaysayang panlipunan, bagong kasaysayan, at pagsibol ng mga sentro ng araling pangkababaihan
+>Hanapin ang mga parte ng MAKIBAKA
+
 - Pagkabuo ng mga samahan ng kababaihan SUMALI, GABRIELA, KABAPA, CWP, WOMEN, PILIPINA, KALAYAAN, SAMAKANA, KMK, AMIHAN, CAP, AMRSP, NOWRP 
   
   Pagkakatatag ng mga women's studies center DIWA, PWU, WAGI, MC, SSC, UP CWGS, WSAP
@@ -59,6 +53,7 @@ ni Nancy Kimuell-Gabriel, Ph.D.
 ##### J. Neil Garcia (1996)
 - Ang homosekswalidad sa Pilipinas ay may malalim at matagal nang kasaysayan, mula pa sa sinaunang panahon. Ipinapakita ito ng mga <mark style="background: #FFB8EBA6;">babaylan na mga lalaking nagdadamit-babae at gumagawa ng ritwal.</mark> Ang patuloy na pagkilala sa homosekswalidad sa lipunan ay hindi maikakaila, kahit sa kabila ng pagsupil ng mga Espanyol sa mga babaylan at balda. Bagamat itinuturing na kahalayang asal ng mga prayle, ang homosekswalidad ay patuloy na nag-e-eksist at may mahalagang papel sa kultura at lipunang Pilipino. Sa mga kumpisalan, hindi inirerekomenda ang pagtambay ng kapwa lalaki o kapwa babae.
 ##### Jeniffer Curry Josef (2017)
+>tatlong lokal na kategorya
 - Ang kilusang lesbiyana ay nagpapahalaga sa paggamit ng lokal na kategorya sa usapin ng pagkakakilanlan. Ang mga tomboy sa Pilipinas ay nagtuturing sa mga lesbiyana bilang mga babae na may feminine na katangian at maaaring magkaroon ng sekswal na ugnayan sa parehong babae at lalaki. Sa kabilang banda, ang mga tomboy ay nagmamalasakit na sila ay mga lalaki na may masculine na katangian at hindi nagkakaroon ng sekswal na ugnayan sa mga lalaki. Sa mga pelikula, madalas na binibigyan ng negatibong imahe ang mga karakter ng mga balda, na nagpapatibay sa mga stereotipo at diskriminasyon. Mahalaga ang tamang pagkilala at pag-unawa sa mga lokal na kategorya at labanan ang negatibong pagpapakilala sa media.
 ##### Michael Tan (1995)
 - Sa mga huling bahagi ng dekada 1980 at simula ng dekada 1990, naganap ang mga pangyayari na nagpabago sa kamalayan ng mga LGBT sa Pilipinas. Ang antolohiyang "Ladlad" noong 1994, ang aklat ni Margarita Go-Singco Holmes, at ang pagkakatatag ng mga organisasyon tulad ng UP Babaylan at PROGAY Philippines ay nagbigay daan sa paglago ng komunidad ng mga LGBT. Ang unang Pride March noong 1994 ay nagpakita ng pagkakaisa ng mga LGBT at kanilang pakikilahok sa mga protesta para sa mga suliranin ng bansa.
