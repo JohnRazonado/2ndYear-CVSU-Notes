@@ -3,7 +3,7 @@
 
 >Mga kailangang gawin
 >- [x] Mabasa ang akdang ito ng pahapyaw uli
->- [ ] Malipon ang mahahalagang salita
+>- [x] Malipon ang mahahalagang salita
 >- [ ] Mailagay sa Anki agad-agad
 >- [ ] magbigay ng sanaysay na representasyon sa mga litrato sa bandang dulo ng "Anina ng mga alon"
 >- [x] Tignan ang sipi ng "Anina ng mga alon" sa library
@@ -33,7 +33,7 @@
 - **Hungaw** - katutubong kasalan o pag-iisang-dibdib ng mga Panay Bukidnon.
 - **Panubok** - katutubong pamamaraan ng pagbuburda ng mga Panay Bukidnon.
 - **Pudong** - kapirasong telang itinatali sa ulo na napapalamutian ng lumang barya.
-- Saypang – pang-itaas na kasuotan ng mga kababaihang Panay-Bukidnon na mistulang pakpak ng paru-paro ang manggas.
+- **Saypang** – pang-itaas na kasuotan ng mga kababaihang Panay-Bukidnon na mistulang pakpak ng paru-paro ang manggas.
 - **Sinumbrahang Pula** - saypang na yari sa pulang tela at malimit na binuburdahan ng mga puting disenyo.
 - **Sinumbrahang Puti** - puting tela na may nakapalamuting pulang burda.
 - **Walkus** - pampalamuting baryang ginagamit na pansinturon sa baywang.
@@ -136,6 +136,13 @@ Ayon kay Magos (1996, 118-120), likas sa kababaihang Panay Bukidnon ang pagiging
 
 
 ## Anina ng mga Alon
+>_Isang Badjao si Anina, lumaki sa piling ng mga alon. Kabisado niya ang mga awit at damdamin nito tulad ng isang kaibigan. Bilang kabataan, nasa edad siya ng paghahanap ng kaniyang sarili sa komplikadong mundong kaniyang ginagalawan. Ngunit paano nga ba ang maging katutubo at mahulí sa gitna ng kahirapan at karahasan?_  
+  
+>_Samahan si Anina sa kaniyang pangangarap, paglalakbay, at pagkamulat sa katotohanang kahabi ng kaniyang buhay bilang Badjao. Sa kuwento ni Anina, makikilala rin ang isang mayamang kultura ng mga katutubong namumuhay sa karagatan na hindi pa ganap na nauunawaan ng karamihan._
+
+Summary by [[Derryk reads - Anina ng mga Alon|"Derryck reads" here]]
+
+
 ### Awtor: Eugene Y. Evasco
 - Makata(poet), kuwentista(storyteller), iskolar, at kolektor ng mga aklat pambata.
 - Kasalukuyan siyang propesor ng Malikhaing Pagsulat sa Kolehiyo ng Arte at Literatura ng Unibersidad ng Pilipinas sa UP Diliman.

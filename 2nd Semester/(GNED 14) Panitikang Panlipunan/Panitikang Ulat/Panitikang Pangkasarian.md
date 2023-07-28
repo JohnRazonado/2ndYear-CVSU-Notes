@@ -1,15 +1,17 @@
 > Ulat ng Ikalawang Grupo
 
->Kailangan Magawa
->- [x] Muling mabasa ang "Si Amapola" at ang diskurso nito
->- [ ] Mabigyang sagot ang mga katanungan sa "Sirena" ni Gloc-9
->- [ ] Ilapag ang sagot sa mga parte ng "Si Amapola"
-
 
 
 #inProgress 
 ## Ano ang LGBTQIA+?
 lesbian, bakla, bisexual, transgender, intersex, queer/questioning, asexual. Marami pang ibang termino (gaya ng non-binary at pansexual) na ginagamit ng mga tao upang ilarawan ang kanilang mga karanasan sa kanilang kasarian, sekswalidad at pisyolohikal na katangian ng kasarian.
+
+
+## Tungkol sa SOGIE Bill
+- House Bill No. 4982 or “An Act Prohibiting Discrimination on the Basis of Sexual Orientation and Gender Identity Expression (SOGIE) and Providing Penalties Therefor” is the first of its kind in the country. 
+- Kilala rin bilang "Anti-Discrimination Bill"
+- Other anti-discrimination bills have been filed in the past, but these were never SOGIE-specific, lumping the lesbian, gay, transgender, bisexual, and queer sector (LGBTQ++ sector) with others such as the differently abled or the indigenous groups.
+- SOGIE Equality Bill is meant to fulfill the rights set forth in the 1987 constitution, particularly the equal protection clause. It recognizes the LGBTQ++ as equals and ensures that their rights are protected inasmuch as everyone’s is. The bill also acknowledges the Philippines duties under international law particularly the Universal Declaration of Human Rights and the International Covenant on Civil and Political Rights. It thus recognizes the non-discrimination of the LGBTQ++ as both a national and international duty.
 
 ## Artikulo: “Si Amapola” Bilang Diskurso sa Homopobikong Kamalayang Pilipino ni Ricardo Lee
 
@@ -45,7 +47,7 @@ lesbian, bakla, bisexual, transgender, intersex, queer/questioning, asexual. Mar
 	-  Isaac - machong lalaki na may girlfriend na si Giselle
 	- Zaldy - klosetang inglesero na ang social life ay nakatuan lamang sa kaniyang laptop at internet connection. 
 	- Montero - Kalaunang lumabas na personalidad kay Amapolla na bagong alter ego niya
-		- Tagalipol ito ng mga tungkab.
+		- Tagalipon ito ng mga tungkab.
 
 ### Gitna
 - Ang lokal na panitikan at araling pambakla sa pagdagsa
@@ -61,12 +63,12 @@ lesbian, bakla, bisexual, transgender, intersex, queer/questioning, asexual. Mar
 		- Hindi pangkaraniwang angulo at mukha (facade)
 		- Sa naturang nobela, hindi ba si Amapola ay isang nakatatawang bersiyon ni Darna, na Filipinong bersyon ni naman ni Wonder Woman? Ginamit din nang husto ni Lee ang estratehiya ng bricolage.
 		- At may mas destrakturarisado, desentralisado at dehumanisadong karakter pa ba kaysa baklang manananggal na may multiple personality dissorder? Kaya, malaki rin ang tulong ng mga kumbensyon ng modong posmodernismo sa istorya ni Lee.
-	- Lokal na Panitikang Pambakla
+	- **Lokal na Panitikang Pambakla**
 		- Keith Hale, sanaysayna "Philippine Literature" na inathala sa *GLBTQ: an Encyclopedia of Gay, Lesbian, Bisexual, Transgender and Queer Culture.*
 		- Umusbong sina Danton Remoto, J. Neil Garcia, Tony Perez, Margarita Go-Singco Holme, at Nicolas Pichay.
 		- Pagkakaroon ng Pilipinas ng nobelang pambakla, at marahil ang unang obra sa genre na ito na sumampa sa estadong best seller ay ang *Orosa-Nakpil, Malate* (2006) ni Louie Mar Gangcuanco (ipinanganank: 1987) na noon ay isa pa lamang mag-aaral sa medisina sa Pamantasan ng Pilipinas-Manila.
 		- Pianpakita na hindi lamang karapatan at dignidad ng mga baklang Pilipino ang pinapakita nito kundi kamulatan tungkol sa salot na dala ng HIV na madalas bumibiktima sa mga kasapi ng naturang demographikong pangkat.
-	- Panitikan tungkol sa Bampira at Taong-Lobo mula sa Kanluran
+	- **Panitikan tungkol sa Bampira at Taong-Lobo mula sa Kanluran**
 		- Si Meyer ay naghabi ng salaysay hinggil sa bawal na pag-ibig sa isang nilalang na dati ay mapanganib, nagsulat siya ng serye para sa mga teenager, at ang pananaw ng eskapismo.
 	- **Comedy Bar** at **Kapangyarihang bakla** 
 		- Gay language

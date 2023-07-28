@@ -186,12 +186,57 @@ Sa buong kabataan niya ay nag-aral siya sa mga katolikong paaralan.
 	- Filipinong tubog sa banyagang kultura dala ng diasporang hindi niya piniling sapian.
 
 ## Liham ni Pinay Mula sa Brunei
+
 ### Awtor: Ruth Elynia S. Mabanglo
 - Ginawaran ng dating Pangulong Aquino ng Presidential Award for Filipino Individuals and Organization Overseas “Pamana ng Pilipino” category.
 - Pinanganak - March 30,1949 (Manila)  
 - Trabaho - Manunula, Manunulat, at Mamamahayag
 - Retiradong Propesor sa University of Hawaii sa Manoa,
 - Propesor sa University of the East, Manuel L. Quezon University, Philippine Normal College, and De La Salle University
+
+### Summary
+
+>Tignan ang buong tulo [[Liham ni Pinay Mula sa Brunei|rito]].
+
+Pinapakita sa mga kada saknong ang pagyayamot at pagtitimpi ng pinay sa kanyang sitwasyon. Na kahit siya ay may tinapos na kurso na pagiging guro ay nakakulong lamang siya sa tahanan na puno ng responsibilidad. Ito ay buhat ng mga nakagawian na tungkulin bilang babae, nakulong siya rito at nais kumawala. Nakawala siya dahil sa pag-iibang bansa. Nangungulila siya sa umpisa bagamat alam niyang buo ang desisyon niya. Gumiginhawa siya kapag naririnig niya ang boses ng kanyang mga anak at mga sulat na kanyang binabasa. Tama nga ang desisyon niya, hayaan naman ang kanyang asawang lalaki ang mag-asikaso ng kanilang tahana't anak.
+
+#### Unang saknong
+- Sa umpisa unang saknong, pinakita na kumakayod ang Pinay na ito bilang guro habang mayroong pamilya (asawa't ina).
+- Nanghinawa (natauhan?)
+- Sa pagiging ina at pagiging kasambahay na rin siguro
+- Kalaunan ay napagod na siya at naisipang mag ibang bansa
+
+#### Ikalawang saknong
+- Pinakita rito ang ugali ng kanyang asawa
+- Parating nag-aantay lang sa kanya ng gagawin, parating nakapahinga lang sa umaga habang naman siya ay hinahanda ang lahat maging brief neto pang-ligo
+- Kailangan pang wilihin kapag mainit ang ulo bagamat walang pasabi kung anong nangyari sa trabaho at may pagkainis na lamang
+- Ayaw ng kakapiranggot na ulam (galunggong at saluyot) kahit ang sahod ay kakapiranggot
+- Kahit nga pangrenta nila ay kulang
+
+#### Ikatlong saknong
+- nagpapagal (napapagod) 
+- Oyayi (paghele)
+- Napapagod na ang pinay sa kinagawiang buhay niya
+- Ayaw na niyang nakayod habang nag-aalaga ng bata at nag-aayos din ng bahay
+- Kahit guro man siya ay hindi ito ang ginusto niya.
+- Sinusumpa niya ang naging role ng babae ayon sa kaugalian
+
+#### Ikaapat na saknong
+- Tinatanong niya kung may karapatan ba siyang magreklamo at kung saan tatakbo
+- Di tulad ng asawa niya na katanggap-tanggap ang pagpunta sa beerhouse at mang-inom
+- Siya ay parating nakakulong sa bahay habang naririnig ang paghingi ng tinapay ng kanilang anak
+- Pagod at bagot na siya, nagsikap siyang mangibang-bansa
+
+#### Ikalimang saknong
+- Ngayon ay nag-ibang bansa na siya
+- Mag-isa bagamat tanggap na
+- Inaabangan ang mga kada tawag at mga sulat na pinapadala ng anak
+- May maginhawa ang kanyang sitwasyon sa tingin niya
+
+#### Ikaanim na saknong
+- Tama ang kanyang desisyon na mag-ibang-bansa
+- At hayaan ang kanyang asawa naman ang mag-asikaso sa kanilang bahay at mag-alaga ng kanilang anak.
+
 
 ### Mga Katanungan
 #### Bisa ng akda sa kasalukuyang panahon?

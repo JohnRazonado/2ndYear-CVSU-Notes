@@ -2,6 +2,10 @@
 Kuha ito sa PDF na ito:
 [[Lumbera-Pambansang Panitikan at ang Bago.pdf]]
 
+Buong Pangalan: [Bienvenido Lumbera](https://www.panitikan.com.ph/nationalartists/blumbera.htm)
+
+
+
 ## Paghihimay`
 ### Panitikang Panrehiyon, Panitikang Pambansa: Magkabukod at Magkarugtong
 Sa parte na ito pinapasok ang pagpapakilala ng "Pambansang Panitikan" at sinasabi na ang mga akdang pinakakilala sa teksto ng edukasyon at paulit-ulit na pinakakita rito ay natatanghal na "kanon" ng panitikan ng Pilipinas. Kagaya na lamang nina:

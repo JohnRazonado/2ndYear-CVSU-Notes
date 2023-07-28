@@ -33,9 +33,7 @@ ni Nancy Kimuell-Gabriel, Ph.D.
 	- Ang kasaysayang pasalita
 - Pag-ibayo ng Diskursong Feminismo at Taal na Kapangyarihan ng Kababaihan
 	- Iba't ibang Pananaw nang mgamanunulat tungkol sa feminismo
-- Pagtatag ng Malayang Kilusan ng Bagong Kababaihan (MAKIBAKA) (1970) bilang pakikisangkot ng kababaihang aktibista laban sa imperyalismong Estados Unidos at pyudalismo sa kanayunan.
-- Mga pagkilos na isinagawa ng MAKIBAKA, ang piket sa Binibining Pilipinas, sa Hilton Filmfest, at sa Manila's Best Dressed (Hernando 2017a).
-- Mga akdang inilimbag ng MAKABAKA at patungkol sa pagsali ng membro ng makibaka sa batas militar Inilimbag nila ang Women and Revolution: Selected Readings on Women's Liberation. "Ang Kababaihan at Pambansang Demokrasya ni Rosario Malay, at "The Concept of Liberated Filipino Women and Her Role in the National Democratic Struggle" ni Mila Astorga Garcia.
+
 
 ### Produksyon ng Kaalaman sa Araling Kababaihan
 - "Filipina I: Poetry, Drama, Fiction" at "Filipina II: An Anthology of Contemporary Women Writers in the Philippines: Essays by Women Writers in Media Now" nina Mila Astorga Garcia, Marra PL. Lanot, at Lilia Quindoza Santiago
@@ -108,8 +106,14 @@ Naging ambag ng mga Kontribyutor sa Isyu
 ## Sipol at Sigaw
 ni Pol Turla
 
+>Makikita ang buong tula [[Sipol at Sigaw|rito]].
+
 ### Awtor: Leupoldo Jr. Turla
 > Kailangang malaman ang buong pangalan
+
+
+### Kabuuan
+Pinapakita rito ang pagbabandila ng pagiging babae kahit ano man ang iyong suot, estado, pagkakakilanlan, tirahan, at boses ay dapat kang mapakinggan kahit sa presidente na tumataliwas sayo. Ikaw ay sumigaw hanggang sa sumipol ang mga nang-aapi sa rehas.
 
 ### Mga katanungan
 #### Ano ang bisa ng akda sa kasalukuyang panahon?
