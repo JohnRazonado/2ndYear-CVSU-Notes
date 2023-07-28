@@ -1,10 +1,10 @@
 ## Half Adder and Full Adders Applications
 1. **ALU** - essential components of CPUs, responsible for logical operations. Half adders and full adders are key building blocks to carry out addition and subtraction on binary numbers
 2. **Binary Counters** - utilizes full adders to increment binary values.
-3. **Data transmission and error detection**
-4. **Multiplexers and Demultiplexers**
-5. **Binary Encoder and Decoders**
-6. **Parallel Adders/Subtractors**
+3. **Data transmission and error detection** - Half and full adders are used for data comm system for error detection correction. Half adder can used for calculate parity bit.
+4. **Multiplexers and Demultiplexers** - Used for data routing and selection purposes.
+5. **Binary Encoder and Decoders** - Convert data between different formats. Assist in conversion of binary data to other encoding schemes, like Gray code or BCD (Binary-Coded Decimal)
+6. **Parallel Adders/Subtractors** - they make use of multiple full adders to perform addition and subtraction operations on multi-bit simultaneously.
 
 ## Half Adder
 - Basic digital circuit
@@ -12,11 +12,19 @@
 - Doesn't consider any carry input from previous stages
 
 ![[Pasted image 20230623133158.png]]
+> Sum of the output is XOR 
+> Carry output is AND on two inputs
 
 ## Full Adder
 - Advance circuit
 - Adds three single-bit binary (input A and B and a carry input [Cin]) -> Sum and Carry [Cout]  
 ![[Pasted image 20230623135717.png]]
+> Sum output is calculated as the XOR of three inputs
+> The carry output is a combination of AND and OR gates
+> The Cout from one full adder can be connected as Cin to the next full adder to perform multi-bit addition.
+> 
+
+
 
 ## Encoder and Decoder
 Digital circuits used in digital systems to convert data between different formats or representations.
