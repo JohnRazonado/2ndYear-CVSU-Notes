@@ -8,7 +8,7 @@ Listed are the reviewers to look at.
 - [[Review - Lecture|Advance Database Management Lecture]]
 - [[2nd Year/2nd Semester/(COSC 70A) Soft Eng/Review|Software Engineering Reviewer]]
 - [[Review - Intro and Analysis|Data Structures]] (blank)
-- [[Rebyu|Panitikang Panlipunan]]
+- [[Rebyu-Midterm|Panitikang Panlipunan]]
 - [[2nd Year/2nd Semester/(COSC 65B) Architecture and Org/Review|Architecture and Organization]]
 - [[Recreational Activities|PE FITT 4]]
-- [[Syllabus|Understanding The Self]]
+- [[Midterm Review|Understanding The Self]]
