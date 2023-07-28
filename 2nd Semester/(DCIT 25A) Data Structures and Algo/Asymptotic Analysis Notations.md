@@ -1,5 +1,5 @@
- ## Asymptotic Analysis
-- An algorithm refers to **defining the mathematical boundation/framing of its run-time performance.**
+## Asymptotic Analysis
+- of an algorithm refers to **defining the mathematical boundation/framing of its run-time performance.**
 - We can very well **conclude best case, average case, and worst case scenario of an algorithm.**
 - Refers to **computing the running time of any operation** in mathematical units of computation.
 
