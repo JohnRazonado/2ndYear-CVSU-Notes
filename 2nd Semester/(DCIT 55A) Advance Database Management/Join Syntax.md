@@ -58,7 +58,7 @@ ON table1.column_name = table2.column_name;
 
 Tip: FULL OUTER JOIN and FULL JOIN are the same.
 
-```sql
+```SQL
 SELECT column_name
 FROM table1
 FULL OUTER JOIN table2
