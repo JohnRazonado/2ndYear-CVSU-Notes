@@ -46,7 +46,7 @@
 - Puberty is not the same as adolescence because puberty ends prior to the end of adolescence period (Santrock, 2016).
 - MENARCHE – the first menstrual flow for girls
 - SPERMARCHE or SEMENARCHE – first ejaculation or nocturnal emission (wet dreams).
-- Santrock further explained that puberty is a brain-neuroendocrine process occurring primarily in early adolescence that triggers the rapid physical changes that occur in the adolescent stage of human development.
+- Santrock further explained that puberty is a brain-neuroendocrine process occurring primarily in early adolescence triggrering the rapid physical changes that occur in the adolescent stage of human development.
 
 ### Classification of Rapid Changes
 1. Primary Sexual Changes
@@ -57,7 +57,7 @@
 - refers to the way one sees himself/herself or the way he/she imagines how he/she looks.
 - Adolescent with poor body images have negative thought and feelings about their appearance which can either be true or not.
 - Young adolescents usually experience an imaginary audience which refers to an egocentric state where the individual imagines and believes that many people are actively listening to or watching him or her.
-- In social psychology, this phenomenon is called SPOTLIGHT EFFECT which refers to the belief that others are paying more attention to the person’s appearance and behavior than they really are.
+- In social psychology, this phenomenon is called **SPOTLIGHT EFFECT** -  refers to the belief that others are paying more attention to the person’s appearance and behavior than they really are.
 
 ## Factors Affect Perception of Physical Self
 ### Personal Factors
