@@ -1,3 +1,5 @@
+![[Lesson 4 -- Tree Traversal.pptx]]
+
 ## Tree
 - A tree is a collection of nodes. 
 - The collection can be empty; otherwise, a tree consists of a distinguished node r, called the root, and zero or more non-empty (sub) trees T1, T2, …, Tk each of whose roots are connected by a directed edge from r.

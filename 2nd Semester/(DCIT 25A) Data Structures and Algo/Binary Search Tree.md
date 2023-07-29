@@ -1,8 +1,10 @@
-
 ![[Lesson 3--Binary Search Tree.pptx]]
 ## Trees
-- A tree is a non-linear data structure. Compared to arrays, linked lists, stacks and queues which are linear data structures, a tree can be empty with no nodes or consist of only one node called the root, and zero or one or more sub-trees.
-- Tree is a non-linear data structure which organizes data in a hierarchical structure and this is a recursive definition. It is a connected graph without any circuits. If in a graph, there is one and only one path between every pair of vertices, then it is called a tree.
+- A tree is a non-linear data structure. 
+- Can be empty with no nodes or consist of only one node called the root, and zero or one or more sub-trees.
+- Organizes data in a hierarchical structure and this is a recursive definition. 
+- It is a connected graph without any circuits (a node connected back to other node creating a loop). If in a graph, there is one and only one path between every pair of vertices, then it is called a tree.
+- mainly used to represent data containing a hierarchical relationship between elements, ex: records, family trees and table of contents.
 
 ### Important properties of tree data structure:
 - There is one and only one path between every pair of vertices in a tree.
@@ -16,6 +18,28 @@
 
 
 ## Binary Tree
+- All nodes contain two links
+	- None, one, or both of which may be NULL
+- The root node is the first node in a tree.
+- Each link in the root node refers to a child.
+- Node with no children is called **leaf node**
+
+- Special type of tree in which every node or vertex has either no children, one child or two children.
+- Characteristics:
+	- Every binary tree has a root pointer which points to the start of the tree
+	- A binary tree can be empty
+	- It consists of a node called root, a left subtree and right subtree both of which are binary trees themselves.
+
+### Examples
+![[Pasted image 20230707235127.png]]
+![[Pasted image 20230707235137.png]]
+
+Root of tree is node having info as X:
+1. Only node is root
+2. Root has left child Y
+3. Root X has right child Z
+4. Root X has left child Y and right child Z which is again a binary tree with its parent as Z and left child of Z is A, which in turn is parent for left child B and right child C.
+
 
 ### Types of Binary Tree
 - Full binary tree is composed of 0 or 2 children in every node.
@@ -30,7 +54,7 @@
 - Last level has all keys as left as possible.
 ![[Pasted image 20230728224946.png]]
 
-- If  the left child node or right child node dominates the tree, it is then called **skewed binary tree**.
+- If the left child node or right child node dominates the tree, it is then called **skewed binary tree**.
 - All nodes except one have only one child node while the remaining node has no child.
 - Left skewed tree is characterized by a left child in most of the nodes with no corresponding right child.
 - Right skewed tree is the opposite of the left.
@@ -108,13 +132,8 @@
 ![[Pasted image 20230728221527.png]]
 > Nodes D, I, J, F, K, and H are leaf nodes
 
-## Binary Trees and Terminologies
-### Non-linear Data Structure
-- These data structures do not have their elements in a sequence
-- Trees is an example
-- **Trees** - mainly used to represent data containing a hierarchical relationship between elements, ex: records, family trees and table of contents.
 
-### Terminologies
+### Main Terminologies
 - **Nodes** - boxes on the tree
 - **Children** - nodes immediately below (to left and right of ) given node.
 - **Parent** - Immediately above of a given node
@@ -157,4 +176,3 @@ Root of tree is node having info as X:
 
 - Diagram of binary tree
 - ![[Pasted image 20230707235453.png]]
-- 
